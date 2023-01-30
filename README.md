@@ -1,2 +1,2 @@
 # boardgame
-board game (wargame)
+board game (wargame) <a href="RULES.md">Rules </a>
