@@ -2,6 +2,7 @@
 #### (E.D.C. v0.2.0)
 
 
+
 ### PARA JUGAR 
 ````
   • Dos ejércitos de 15 Unidades cada uno. (puede ser menos si quieres que sea más rápido)
@@ -181,73 +182,28 @@ Movimiento: La distancia máxima que puede mover (cm)
 
 
 
-### HABILIDADES ESPECIALES <a href="habilidades-especiales.pdf">(PDF)</a>
+### HABILIDADES ESPECIALES <a href="RPG-cards.pdf">(PDF)</a>
 Todas las cartas deben descartarse al mazo una vez utilizadas. 
 
+|Habilidad| Uso | Resultado |
+|---|---|---|
+|Dosis de MA+ | Usas una inyección de (Morfina+Adrenalina), e inmediatamente después, sientes como tu cuerpo se llena de adrenalina y la pequeña dosis de morfina hace el resto del trabajo. | Gastas un punto de salud y sumas un dado extra en tu jugada de ataque. |
+|U.E.A.S. (Viento Divino)| Unidad Especial de Ataque Shinpū: Corres deliberadamente hacia tu enemigo y detonas una granada a los pies de tu oponente . Juega esta carta cuando tu unidad esté en 1 punto de salud.| Remueve tu unidad del campo de batalla y la unidad enemiga recibe 2 puntos de daño imbloqueable. 
+|Espionaje | El espía se escabulle entre las unidades enemigas y obtiene información clasificada. Juega  esta carta en cualquier momento dentro de tu turno. |Tu oponente revela aleatoriamente una de sus cartas en mano.
+|Instinto asesino (Frenesí)| Dejas de lado el instinto de supervivencia, entras en frenesí y disparas a quemarropa. Juega esta carta cuando tienes más de un oponente en rango de ataque. |Gastas un punto de salud y todas las unidades a distancia de 3cm, Incluidas las aliadas, juegan (1d6). Si 5 o 6 reciben un punto de daño.|
+|Interceptar comunicación enemiga| Al interceptar la comunicación logras despistar al enemigo con instrucciones falsas. Juega esta carta al finalizar la fase de movimiento de tu oponente.|Selecciona una unidad enemiga y muévela 5 cm libremente a tu elección.|
+|Primeros auxilios (Botiquín)| Juega esta carta en cualquier momento para curar la salud de tu unidad. La unidad no debe estar en rango de ataque enemigo. |Recuperas 1 punto de salud de una unidad cualquiera.|
+|Torniquete improvisado| Juega esta carta cuando un enemigo te hace 1 punto de daño.|El daño recibido pasa para la siguiente ronda. (solo aplica para un solo punto de daño).|
+|Camuflado especial|juega esta carta para disfrazarte del terreno y pasar desapercibido ante el enemigo. Juega esta carta en tu etapa de movimiento. En el próximo turno será visible.|Mientras estés inmóvil y sin atacar eres invisible en plena luz del día. | Nadie puede verte y/o atacarte, tampoco puedes mover o atacar en ese turno.|
+|Francotirador| Juega esta carta siempre que tu unidad esté en algún punto de cobertura y con rango de visión directo al objetivo. |Tu rango de ataque se extiende a una distancia de 2 cm extras. |
+|Mina explosiva| Si levantas esta carta del mazo, debes jugarla inmediatamente. Si esta carta te toca en la primera mano, devuélvela y mezcla el mazo. | Recibes automáticamente 1 punto de daño imbloqueable.|
+|Habilidad de Canguro| Puedes mover una unidad en cualquier momento de tu turno (en fase de ataque). | Desplaza una de tus unidades a un lateral (izquierdo o derecho) a una distancia de 3 cm, o hasta donde te permita sin chocar unidades u objetos.|
+|Habilidad de Cheetah| Juega esta carta en la etapa de movimiento, te permitirá mover tu unidad un rango extra| Desplaza una de tus unidades 3 cm extra.|
 
-````
-• Dosis de MA+: 
-Usas una inyección de (Morfina+Adrenalina), e inmediatamente después, sientes como tu cuerpo se llena 
-de adrenalina y la pequeña dosis de morfina hace el resto del trabajo. 
-• Resultado: Gastas un punto de salud y sumas un dado extra en tu jugada de ataque. 
-````
-````
-• U.E.A.S. (Viento Divino): Unidad Especial de Ataque Shinpū: Corres deliberadamente hacia tu enemigo 
-y detonas una granada a los pies de tu oponente . Juega esta carta cuando tu unidad esté en 1 punto de salud.
-• Resultado: Remueve tu unidad del campo de batalla y la unidad enemiga recibe 2 puntos de daño imbloqueable. 
-````
-````
-• Espionaje: El espía se escabulle entre las unidades enemigas y obtiene información clasificada. 
-Juega  esta carta en cualquier momento dentro de tu turno. 
-• Resultado: Tu oponente revela aleatoriamente una de sus cartas en mano.
-````
-````
-• Instinto asesino (Frenesí): Dejas de lado el instinto de supervivencia, entras en frenesí y disparas 
-a quemarropa. Juega esta carta cuando tienes más de un oponente en rango de ataque. 
-• Resultado: Gastas un punto de salud y todas las unidades a distancia de 3cm, Incluidas las aliadas, 
-juegan (1d6). Si 5 o 6 reciben un punto de daño.
-````
-````
-• Interceptar comunicación enemiga: Al interceptar la comunicación logras despistar al enemigo con 
-instrucciones falsas. Juega esta carta al finalizar la fase de movimiento de tu oponente.
-• Resultado: Selecciona una unidad enemiga y muévela 5 cm libremente a tu elección.
-````
-````
-• Primeros auxilios (Botiquín): Juega esta carta en cualquier momento para curar la salud de tu unidad. 
-La unidad no debe estar en rango de ataque enemigo. 
-• Resultado: Recuperas 1 punto de salud de una unidad cualquiera.
-````
-````
-• Torniquete improvisado: Juega esta carta cuando un enemigo te hace 1 punto de daño.
-• Resultado: El daño recibido pasa para la siguiente ronda. (solo aplica para un solo punto de daño).
-````
-````
-• Camuflado especial: juega esta carta para disfrazarte del terreno y pasar desapercibido ante el enemigo. 
-Juega esta carta en tu etapa de movimiento. En el próximo turno será visible.
-• Resultado: Mientras estés inmóvil y sin atacar eres invisible en plena luz del día. 
-Nadie puede verte y/o atacarte, tampoco puedes mover o atacar en ese turno.
-````
-````
-• Francotirador: Juega esta carta siempre que tu unidad esté en algún punto de cobertura y 
-con rango de visión directo al objetivo. 
-• Resultado: Tu rango de ataque se extiende a una distancia de 2 cm extras. 
-````
-````
-• Mina explosiva: Si levantas esta carta del mazo, debes jugarla inmediatamente. 
-Si esta carta te toca en la primera mano, devuélvela y mezcla el mazo. 
-• Resultado: Recibes automáticamente 1 punto de daño imbloqueable.
-````
-````
-• Habilidad de Canguro: Puedes mover una unidad en cualquier momento de tu turno (en fase de ataque). 
-• Resultado: Desplaza una de tus unidades a un lateral (izquierdo o derecho) a una distancia de 3 cm, 
-o hasta donde te permita sin chocar unidades u objetos.
-````
-````
-• Habilidad de Cheetah: Juega esta carta en la etapa de movimiento, te permitirá 
-mover tu unidad un rango extra
-• Resultado: Desplaza una de tus unidades 3 cm extra.
-````
-
+<div align="center">
+<img src="example-card.png" width="360" height="250"><br>
+</div>
+<br> 
 
 ### UNIDADES ESPECIALES
 ````
@@ -272,8 +228,10 @@ Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar 
  dados y evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre 
  la dirección original.
 ````
+<div align="center">
 <img src="uso-de-tokens-salud.png"> <img src="token.png" width="250" height="170">
-
+</div>
+<br>
 
 ### PUNTOS DE VICTORIA
 
