@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima # jekyll-theme-cayman
 markdown: kramdown #GFM
 title: EDC BoardGame
 description: A board game simple and fast.
