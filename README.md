@@ -32,11 +32,11 @@
 ### CONFIGURACIÓN DEL JUEGO
 ````
 • Ambos jugadores arman el terreno, puede ser aleatoriamente o bien usar un escenario y colocan los puntos de control. 
-• Una vez terminado de armar el terreno, vuelven a jugar (1D6). 
-El ganador decide si rotan de posición de terreno o se quedan donde están. 
+• Una vez terminado de armar el terreno, vuelven a jugar (1D6) y el ganador 
+  decide si rotan de posición de terreno o se quedan donde están. 
 • Los ejércitos deben desplegarse mínimo a 30 o 40 cm entre sí y a 3 cm del borde del tablero.
 • Al colocar por primera vez, las unidades deben estar boca abajo, estas se voltean una vez que inicie 
-la primera partida del juego. (tu contrincante no ve que tipo de unidad está en cada posición hasta que inicia el juego).
+la primera partida del juego. (tu contrincante no ve que tipo de unidad está en cada posición hasta que inicia el juego)
 • Reparte 4 cartas de habilidades especiales.
 ````
 
@@ -147,7 +147,7 @@ luego de eso queda fuera de combate.
 ID: Identificador de unidad.
 Nombre: Nombre táctico de la unidad
 Salud: Salud de la unidad. 
-Resistencia: Capacidad de Esquivar/Evadir golpes (cantidad de dados que juega).
+Resistencia: Capacidad de Esquivar/Evadir golpes (cantidad de dados que juega en defensa).
 AD: Ataque a distancia.
 CC: Ataque cuerpo a cuerpo.
 Movimiento: La distancia máxima que puede mover (cm)
@@ -210,11 +210,13 @@ Todas las cartas deben descartarse al mazo una vez utilizadas.
 Cuando juegues con unidades especiales puedes agregar características a tus unidades. 
 Mezcla el mazo de cartas especiales y reparte 4 a cada jugador. Las cartas una vez usadas vuelven al mazo. 
 Las cartas restantes en el mazo servirán cuando una unidad especial ascienda de rango. 
-
+````
+````
 • Unidad Tango:  Estas unidades especiales poseen características unicas. 
   Fueron entrenadas en campamentos militares especializados, por ello puedes configurarlas como desees. 
 • Las unidades especiales pueden utilizar cartas de habilidades especiales.
-
+````
+````
 • Médico: Esta unidad de salud permite curar 1 punto de salud a una unidad aliada. 
  El médico puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
 • Para curar una unidad, debe estar en contacto (CC).
