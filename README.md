@@ -1,10 +1,10 @@
-# ESCARAMUZAS DE CAFÉ (E.D.C. Wargame)
-#### v0.2.0
+# ESCARAMUZAS DE CAFÉ 
+#### E.D.C. Wargame - v0.2.0
 
 
 <br>
 <div align="center">
-<img src="demo.jpeg" width="500" height="360"><br>
+<img src="demo.jpeg" width="620" height="420"><br>
 </div>
 <br> 
 
@@ -41,6 +41,11 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>• 🚩 Tokens banteritas:  los uso para marcar zonas de conquista, así puedo saber de quien es la zona o punto conquistado. 
 <br>• 🪖 Unidades: tamaño 20x15x5   largo, alto, profundidad  (en milímetros). Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
 <br>	
+<div align="center">
+<img src="tokens-mini.jpeg" width="500" height="310"><br>
+</div>	
+	
+	
 	
 ### EJÉRCITOS  
 <br>	
