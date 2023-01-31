@@ -1,0 +1,332 @@
+[
+  {
+    "count": "4",
+    "title": "MA+",
+    "contents": [
+      "subtitle | Dosis de MA+ |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text | Una dosis de (MA+) Morfina + Adrenalina. | ",
+      "",
+      "section | Uso: ",
+      "text | Utilizas una inyección de (MA+), inmediatamente despues, sientes como tu cuerpo se llena de adrenalina y la pequeña dosis de morfina hace el resto del trabajo.  | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Gastas un punto de salud y sumas un dado de ataque en tu jugada.",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "Red",
+    "icon": "miracle-medecine",
+    "icon_back": "",
+    "title_size": "16",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "U.E.A.S. (Viento Divino)",
+    "contents": [
+      "subtitle | Unidad Especial de Ataque Shinpū |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text | Aún en estos tiempos a estas unidades les corre por la sangre ADN <b>Kamikaze </b>|  ",
+      "section | Uso: ",
+      "text | Utilizas una <b>РПГ-43</b> (RPG-43) para detonarla defensivamente en distancia de <b>(CC)</b>. Juega esta carta cuando tu unidad este en 1 punto de salud.  | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Corres deliberadamente hacia tu enemigo y detonas una РПГ-43 a los pies de tu oponente. ",
+      "text | La unidad enemiga recibe <b>2 puntos de daño inbloqueables</b>. ",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "black",
+    "icon": "stun-grenade",
+    "icon_back": "",
+    "title_size": "13",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "Espionaje",
+    "contents": [
+      "subtitle | Espia |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text |  Las técnicas comunes del espionaje han sido históricamente la infiltración y la penetración, en ambas es posible el uso del soborno y el chantaje. ",
+      "text | Tienes un \"soplón\" en la tropa enemiga?   |  ",
+      "section | Uso: ",
+      "text | El espia se escabulle entre las unidades enemigas y obtiene información clasificada. Juega  esta carta en cualquier momento dentro de tu turno.  | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Tu oponente revela aleatoriamente una de sus cartas en mano. ",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "DarkOliveGreen",
+    "icon": "spy",
+    "icon_back": "",
+    "title_size": "13",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "Instinto asesino",
+    "contents": [
+      "subtitle | Instinto asesino (Frenesí) |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text |  En situaciones extremas el instinto de supervivencia se corrompe debido a un entorno hostil  |  ",
+      "section | Uso: ",
+      "text | Dejas de lado el instinto de supervivencia, entras en frenesí y disparas a quemarropa sin más.  Juega esta carta cuando tienes más de un oponente en rango de ataque.  | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text |  Gastas un punto de salud y todas las unidades a distancia de 1 regla de movimiento. Juegan (1d6). Incluidas las aliadas. Si es 5 o 6 reciben un punto de daño.",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "black",
+    "icon": "skull-bolt",
+    "icon_back": "",
+    "title_size": "13",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "Cuchillo envenenado",
+    "contents": [
+      "subtitle | Apuñalamiento  |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text |  En momentos criticos las puñaladas han sido comunes a lo largo de la historia de la humanidad.",
+      "section | Uso: ",
+      "text | Siempre que estes en contacto CC podras apuñalar a tu oponente. Juega esta carta en cualquier momento. | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text |  Tu oponente recibe 1 punto de daño y debe jugar <b>(1d6)</b> Si el resuldado es 6 el veneno surte efecto. En el proximo turno recibe un 1 de daño adicional).",
+      "",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "black",
+    "icon": "dripping-knife",
+    "icon_back": "",
+    "title_size": "13",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "Interceprar comunicación",
+    "contents": [
+      "subtitle | Interceprar comunicación enemiga |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text |  En muchos casos, las unidades de asalto reciben instrucciones estratégicas de avance contra el enemigo.    |  ",
+      "section | Uso: ",
+      "text | Al interceptar la comunicación logras despistar al enemigo con instrucciones falsas. Solo puedes mover la unidad enemiga a una distancia de <b>5 cm</b>. Juega esta carta al finalizar la fase de movimiento de tu oponente.| ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Selecciona una unidad enemiga y muévela libremente a tu elección. ",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "DarkOliveGreen",
+    "icon": "spy",
+    "icon_back": "",
+    "title_size": "12",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "4",
+    "title": "Primeros auxilios",
+    "contents": [
+      "subtitle | Botiquín militar |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text | Los cinco minutos inmediatamente posteriores a un ataque son vitales para la supervivencia de los heridos. Este kit que incluye agentes hemostáticos para cortar hemorragias  |  ",
+      "section | Uso: ",
+      "text | Juega esta carta al final de tu turno para curar 1 punto de salud de una unidad.   | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text |  Recuperas 1 punto de salud de una unidad cualquiera.",
+      "",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "DarkOliveGreen",
+    "icon": "first-aid-kit",
+    "icon_back": "",
+    "title_size": "12",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "Torniquete ",
+    "contents": [
+      "subtitle | Aplicas un torniquete improvisado|",
+      "rule",
+      "section | Caracteristicas: ",
+      "text | Los torniquetes son un método efectivo para detener el sangrado de una extremidad por un periodo de tiempo corto.  |  ",
+      "section | Uso: ",
+      "text | Baja esta carta cuando un enemigo te hace 1 punto de daño.   | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text |  El daño recibido pasa para la siguiente ronda. (solo aplica para un solo punto de daño).",
+      "",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "DarkOliveGreen",
+    "icon": "health-normal",
+    "icon_back": "",
+    "title_size": "12",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "Camuflado especial",
+    "contents": [
+      "subtitle | Camuflado con el terreno |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text |  Este camuflaje fue diseñado específicamente para esta área de batalla. Las unidades están disfrazadas del terreno y hasta de árboles. |  ",
+      "section | Uso: ",
+      "text | Te vuelves prácticamente invisible. Usa esta carta para disfrazarte del terreno y pasar desapercibido antes el enemigo. Juega esta carta cuando todos finalicen la etapa de movimiento. | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Mientras estés inmóvil y sin atacar eres invisible en plena luz del día. Nadie puede verte y/o atacarte, tampoco tú, en ese turno.  ",
+      "",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "saddlebrown",
+    "icon": "ghost-ally",
+    "icon_back": "",
+    "title_size": "12",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "Francotirador",
+    "contents": [
+      "subtitle | Disparo a gran distancia |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text | Experto en objetivos clave. Tirador a distancias largas y desde un lugar oculto, a objetivos seleccionados.  |  ",
+      "section | Uso: ",
+      "text | Juega esta carta siempre que tu unidad esté a media regla de algún <b>punto de cobertura</b> y con rango de visión directo al objetivo. No puede haber obstáculos en medio. | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Tu rango de ataque se extiende a una distancia de <b>30cm</b> a costa de quedar inmobilizado en el proximo turno. ",
+      "",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "black",
+    "icon": "crosshair",
+    "icon_back": "",
+    "title_size": "12",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": 1,
+    "title": "Mina explosiva",
+    "contents": [
+      "subtitle | Pisas una mina oculta en el suelo. |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text | La mina antipersona es uno de los tipos de armamento más desarrollado y fatídicamente certero de las últimas décadas | ",
+      "",
+      "section | Uso: ",
+      "text | Si levantas esta carta del mazo, debes jugarla inmediatamente.",
+      "text | Si esta carta te toca en la primera mano, devuélvela y mezcla el mazo. | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Recibes automaticamente 1 punto de daño inbloqueable."
+    ],
+    "tags": [],
+    "color": "GoldenRod",
+    "icon": "mine-explosion"
+  },
+  {
+    "count": "2",
+    "title": "Unidades tácticas",
+    "contents": [
+      "subtitle | Ya sabes que hacer...!!! |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text |  Unidades con gran experiencia táctica que conocen muy bien el campo de batalla. No te preocupes, ellas saben qué hacer...  |  ",
+      "section | Uso: ",
+      "text | Selecciona una unidad que no se pueda mover y juega esta carta. Puedes mover una unidad en cualquier momento de tu turno (en fase de ataque). | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Desplazas una unidad para un lateral (izquierdo o derecho) a una distancia de movimiento de <b>5cm</b>, o hasta donde te permita, sin chocar unidades u objetos",
+      "",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "RoyalBlue",
+    "icon": "sergeant",
+    "icon_back": "",
+    "title_size": "12",
+    "font_size": "",
+    "background_image": ""
+  },
+  {
+    "count": "2",
+    "title": "Habilidad de Cheetah",
+    "contents": [
+      "subtitle | Veloz como un Cheetah...!!! |",
+      "rule",
+      "section | Caracteristicas: ",
+      "text |  El Cheetah es el animal terrestre más rapido y tu tienes algo de esa habilidad... |  ",
+      "section | Uso: ",
+      "text | Juega esta carta en la etapa de movimiento, te permitira mover tu unidad un rango extra  | ",
+      "fill | 1  ",
+      "section | Resultado: |",
+      "text | Mueve tu unidad con normalidad hasta su punto máximo y luego te desplazas 4cm extra  hasta donde te permita sin chocar unidades u objetos. ",
+      "",
+      ""
+    ],
+    "tags": [
+      "f1 car"
+    ],
+    "color": "RoyalBlue",
+    "icon": "sergeant",
+    "icon_back": "",
+    "title_size": "12",
+    "font_size": "",
+    "background_image": ""
+  }
+]
