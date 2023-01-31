@@ -124,6 +124,7 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 <b>• Terreno peligroso:</b> Las miniaturas que se mueven por terreno peligroso igual que en terreno difícil, pero deben tirar 1D6, 
 Si el resultado es un éxito la unidad recibe una herida.
 <br>
+<br>
 
 ### ATAQUE A DISTANCIA
 <br>
@@ -166,8 +167,6 @@ Si el resultado es un éxito la unidad recibe una herida.
 | 2,3           |😞 Fallo |
 | 4,5           |😃 Acierto |  
 |  6            |💥 Éxito  |
-	
-<br>
 • Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. <br>
 • Los éxitos no se pueden evadir.<br>
 • Cada golpe anotado se aplica inmediatamente.<br>
@@ -192,8 +191,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 |M  |Médico   |2|2|1|2|13|
 |D  |Delta    |1|1|2|3|8|
 |T  |Tango    |2|2|2|3|10|
-
-<br>• Los jugadores siempre tienen dos dados para (PA), independientemente del tamaño del ejército.
+• Los jugadores siempre tienen dos dados para (PA), independientemente del tamaño del ejército.
 <br>• Si bien se calculan 15 unidades y límites por cada tipo de unidad para batallas básicas, siéntase libre de agregar más unidades para hacer batallas más interesantes y divertidas.
 <br>• Todas las unidades pueden subir de rango. Para ello deben destruir dos unidades enemigas. 
 <br>• El rango máximo alcanzable por unidades en ascenso es Alpha
