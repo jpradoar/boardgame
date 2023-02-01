@@ -9,15 +9,15 @@
 <br>  
 
 <h3 align="center"> EL JUEGO </h3>
-EDC: Es un juego de mesa diseñado para ser desarrollado en el tiempo que demora esperar el café (20, 30min). <br>
-El mismo supone una pequeña batalla (escaramuza) entre dos bandos con un sistema de juego simple, rápido y a la vez divertido. Las unidades no tienen
-estereotipo, lo cual evita que el juego este enmarcado en un punto histórico, de heco, si quieres simular una situación histórica o futurista puedes hacerlo. ( si bien tiene un estilo militar, puedes modificarlo para adaptarlo a una época en particular). Las unidades tienen sus propias características sobre ellas, lo que ayuda a simplificar las tiradas de dados.<br>
-Los tamaños rondan los 2 cm la unidad, lo que te permitirá colocarlo en una pequeña bolsa y llevarlo a donde desees. Puedes jugar 1vs1 o 2vs2. (hemos jugado 2v2 y resulta muy divertido!).  <br>
-El objetivo es que cualquera pueda sentarse, jugar y compartir un buen momento.  <br>
+<b>EDC</b>: Es un juego de mesa diseñado para ser desarrollado en el tiempo que demora esperar y beber un café (20, 30min). <br>
+El mismo supone una pequeña batalla (escaramuza) entre dos bandos con un sistema de juego simple, rápido y a la vez divertido. 
+<p>Las unidades no tienen estereotipo, lo cual evita que el juego este enmarcado en un punto histórico, de heco, si quieres simular una situación histórica o futurista puedes hacerlo. ( si bien tiene un estilo militar, puedes modificarlo para adaptarlo a una época en particular). Las unidades tienen sus propias características sobre ellas, lo que ayuda a simplificar los movimientos y tiradas de dados.<br>
+Los tamaños rondan los 2 cm la unidad, lo que te permitirá colocarlo en una pequeña bolsa y llevarlo a donde desees. Puedes jugar 1vs1 o 2vs2. (hemos jugado 2v2 y resulta muy divertido!). <br>
+El objetivo primordial es que cualquera pueda sentarse, jugar y compartir un buen momento. 🫂 <br>
 <p>
-Completamente Open-Source y PNP (print & play). Imprime, arma y juega.
-<br>
-Sientete libre de modificar a tu gusto lo que consideres que será mas divertido. 
+	
+Completamente <b>Open-Source y PNP (print & play)</b>. Imprime 🖨️ Arma 🛠️ Juega 🎲. 
+Sientete libre de modificar a tu gusto lo que consideres que será mas divertido y, si crees que puedes agregarle algo más, compartelo aqui mismo.
 <br><br>
 	
 <h3 align="center"> QUE NECESITAS PARA JUGAR </h3>
