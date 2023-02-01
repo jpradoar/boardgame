@@ -120,7 +120,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 
 <h3 align="center"> ZONAS DE CONQUISTA </h3>
 
-<br>• Colocar 3, 5 o 7 objetivos, cada uno fuera de las zonas de despliegue y a más de 14 cm de distancia entre sí. Al final de cada ronda, si una unidad está a 3 cm o menos de una de ellas, entonces se captura y permanece a quien lo conquiste, a menos que el enemigo elimine todas las unidades opuestas y recapture la zona. 
+<br>• Colocar 3, 5 o 7 objetivos, cada uno fuera de las zonas de despliegue y a más de 14 cm de distancia entre sí. Al final de cada ronda, si una unidad está a 3 cm o menos de una de ellas, entonces se captura y pertenece a quien lo conquiste, a menos que el enemigo elimine todas las unidades opuestas y recapture la zona. (recuerda colocar un token o algo para marcar de quien es la zona y anota el punto.)
 <br>• Si las unidades de ambos bandos están disputando un mismo marcador, pueden marcar como neutral. 
 <br>
 <div align="center">	
@@ -136,9 +136,9 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>
 <b>• Terreno de cobertura:</b> Las unidades que disparan a los enemigos con la o las miniaturas a cubierto obtienen -1 en las tiradas para impactar.
 <br>
-<b>• Terreno Difícil:</b> Las unidades que se mueven a través de terrenos difíciles no pueden moverse la mitad de su movimiento normal.
+<b>• Terreno Difícil:</b> Las unidades que se mueven a través de terrenos difíciles se mueven a la mitad de su movimiento normal.
 <br>
-<b>• Terreno peligroso:</b> Las miniaturas que se mueven por terreno peligroso igual que en terreno difícil, pero deben tirar 1D6, 
+<b>• Terreno peligroso:</b> Las miniaturas que se mueven por terreno peligroso, mueven igual que en terreno difícil, pero deben tirar 1D6. 
 Si el resultado es un éxito la unidad recibe una herida.
 <br>
 <div align="center">	
@@ -153,6 +153,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 <br>
 • Las unidades atacan a una distancia de 24cm (regla de movimiento 13cm + regla de ataque 11cm)<br>
 • Las unidades atacan con (2D6) en combates a distancia.<br>
+• Los aciertos son:  4, 5 o 6
 • Cada fallo crítico (1) provoca una herida<br>
 • Si en combate se obtiene 🎲🎲 (doble 1), la unidad entra en pánico y se retira la unidad del juego. <br>
 • Los árboles y paredes pueden funcionar como terreno de cobertura <br>
@@ -164,6 +165,7 @@ Si el resultado es un éxito la unidad recibe una herida.
  
 • Dos unidades a menos de (3cm), se enfrentarán cuerpo a cuerpo (CC). <br>
 • Las unidades atacan con (3D6) en cuerpo a cuerpo (CC).<br>
+• Los aciertos son:  4, 5 o 6
 • Cada fallo crítico (1) provoca una herida<br>
 • Si se obtienen 🎲🎲🎲 (triple 1), la unidad entra en pánico y se retira la unidad del juego cuenta como destruido a efectos de puntos de victoria.<br>
 • Si una unidad enemiga es destruida en combate (CC), entonces la unidad victoriosa puede avanzar directamente hacia adelante, a menos que el enemigo tenga una unidad de apoyo que <br>
@@ -181,8 +183,8 @@ Si el resultado es un éxito la unidad recibe una herida.
 
 |Dado |resultado  |Puntos de herida |
 |:---:  |:---|:---:|
-| 1 - 3 |🤕 Levemente Herido | 1 |
-| 4 - 6 |🩸 Gravemente herido| 2 |
+| 1 - 4 |🤕 Levemente Herido | 1 |
+| 5 - 6 |🩸 Gravemente herido| 2 |
 
 </div>
 
@@ -238,12 +240,14 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 
 • Los jugadores siempre tienen dos dados para (PA), independientemente del tamaño del ejército.
 <br>• Si bien se calculan 15 unidades y límites por cada tipo de unidad para batallas básicas, siéntase libre de agregar más unidades para hacer batallas más interesantes y divertidas.
-<br>• Todas las unidades pueden subir de rango. Para ello deben destruir dos unidades enemigas. 
+<br>• Algunas unidades pueden subir de rango. Para ello deben destruir dos unidades enemigas. 
 <br>• El rango máximo alcanzable por unidades en ascenso es Alpha
 <br>• Cuando una unidad sube de rango entra al campo de batalla como si fuera una completamente nueva y saludable. 
 <br>• Para subir de rango, la unidad debe destruir al menos 2 unidades enemigas.  
 <div align="center">
 
+<h3 align="center"> SUBIR DE RANGO  </h3>	
+	
 |unidad| unidades destruidas | sube a nivel | 
 |:---:|:---|:---|
 |Delta  | Destruye 2 unidades enemigas | Sube a Eco o Tango |
