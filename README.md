@@ -6,7 +6,7 @@
 <div align="center">
 <img src="demo.jpeg" width="620" height="420"><br>
 </div>
-<br> 
+<br>  
 
 <h3 align="center"> EL JUEGO </h3>
 EDC: Es un juego de mesa diseñado para ser desarrollado en el tiempo que demora esperar el café (20, 30min). <br>
