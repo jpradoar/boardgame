@@ -238,7 +238,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 
 <h3 align="center"> CARTAS DE HABILIDADES ESPECIALES 
 
-<img src="example-card.png" width="190" height="250"><br>
+<img src="example-card.png" width="280" height="370"><br>
 <a href="RPG-cards.pdf">( CARTAS PDF)</a> </h3>
 • Todas las cartas deben descartarse al mazo una vez utilizadas. 
 
