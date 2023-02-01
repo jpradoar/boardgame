@@ -94,9 +94,9 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 <div align="center"><img src="flujo-01.png"></div>
 <br>
 <b>1.</b> Determinar la iniciativa (Juega 2D6, quien saque el número más alto inicia)<br>
-<b>2.</b> El número más alto de iniciativa, será la cantidad de <b>Puntos de Acción (PA) para ambos.</b><br>
+<b>2.</b> El número más alto de iniciativa también será la cantidad de <b>Puntos de Acción (PA) para ambos.</b> (la cantidad de unidades que podras utilizar en esa ronda)<br>
 <b>3.</b> Inicia el jugador con iniciativa. <br>
-<b>4.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón.<br>
+<b>4.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón. ( Activa una unidad el jugador A, luego el jugador B activa otra, y así).<br>
 <b>5.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )<br>
 <br>
 
