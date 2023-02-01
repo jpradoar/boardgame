@@ -8,7 +8,7 @@
 </div>
 <br> 
 
-### EL JUEGO
+<h3 align="center"> EL JUEGO </h3>
 EDC: Es un juego de mesa diseñado para ser desarrollado en el tiempo que demora esperar el café (20, 30min). <br>
 El mismo supone una pequeña batalla (escaramuza) entre dos bandos con un sistema de juego simple, rápido y a la vez divertido. Las unidades no tienen
 estereotipo, lo cual evita que el juego este enmarcado en un punto histórico, de heco, si quieres simular una situación histórica o futurista puedes hacerlo. ( si bien tiene un estilo militar, puedes modificarlo para adaptarlo a una época en particular). Las unidades tienen sus propias características sobre ellas, lo que ayuda a simplificar las tiradas de dados.<br>
@@ -20,7 +20,8 @@ Completamente Open-Source y PNP (print & play). Imprime, arma y juega.
 Sientete libre de modificar a tu gusto lo que consideres que será mas divertido. 
 <br><br>
 	
-### QUE NECESITAS PARA JUGAR 
+<h3 align="center"> QUE NECESITAS PARA JUGAR </h3>
+
 <br>
 • Dos ejércitos de 15 Unidades cada uno. (puede ser menos si quieres que sea más rápido)<br>
 • 🎲🎲🎲🎲 dados de seis caras (4D6) por jugador. (aunque con solo 4 es suficiente) <br>
@@ -31,7 +32,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 • Marcadores de puntos de control (puede ser cualquier cosa, hasta una moneda).<br>
 <br>
 
-### 🛠️ COMO ARMARLO
+<h3 align="center"> 🛠️ COMO ARMARLO </h3>
 <br>
 • Puedes imprimir y ya, o bien, armarlo con lo que tengas a mano, cubos de madera o similar. En mi caso use un cartel de plástico y pegué sobre los cubos las imágenes de las unidades. (las imprimí en A4 300g). 
 <br>• Los tokens o marcadores de salud y estado son del mismo material, solo que los pinté con acrílico. 
@@ -46,25 +47,27 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 </div>	
 <br>	
 	
-	
-### EJÉRCITOS  
-<br>	
-<a href="easy-units.pdf"> Unidades simples (PDF) </a> ó <a href="icons-custom-units.pdf"> Unidades con simbolo (PDF) </a>  
-<a href="tokens-de-salud.pdf"> Tokens de salud (PDF) </a>
+
+<div align="center">	
+<h3 align="center"> EJÉRCITOS  </h3> 
 <br>
 	
-|Identificador | Nombre | Descripción|
-|---|---|---|
+	
+|**Identificador** | **Nombre** | **Descripción**|
+|:---:|:---:|:---|
 |  A |Alpha| La tropa más poderosa y experimentada.|
 |  B |Bravo| Tropas de alto rango. Luego de Alpha son las más fuertes. |
 |  E |Eco| Tropas de gran resistencia, tendran buen rendimiento si las combinas con el equipo Bravo.|
-|  D |Delta| Tropas frágiles sin entrenamiento y de poca experiencia. Ya sabras que hacer con ellas...|
+|  D |Delta| Tropas frágiles sin entrenamiento y de poca experiencia. Ya sabras que hacer con ellas.|
 |  T |Tango| Unidades especiales que poseen características únicas. |
 |  M |Médico| La única tropa que puede curar a las demás. |
 
-<br>
+<a href="easy-units.pdf"> Unidades simples (PDF) </a> ó <a href="icons-custom-units.pdf"> Unidades con simbolo (PDF) </a>  
+<a href="tokens-de-salud.pdf"> Tokens de salud (PDF) </a>
+</div>
+<br><br>
 	
-### CONFIGURACIÓN DEL JUEGO
+<h3 align="center"> CONFIGURACIÓN DEL JUEGO </h3>
 <br>
 • Ambos jugadores arman el terreno, puede ser aleatoriamente o bien usar un escenario y colocan los puntos de control. <br>
 • Una vez terminado de armar el terreno, vuelven a jugar (1D6) y el ganador <br>
@@ -75,7 +78,7 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 • Reparte 4 cartas de habilidades especiales.<br>
 <br>
 
-### TERRENO
+<h3 align="center"> TERRENO </h3>
 <br>
 • Áreas de bosques, arroyos, lagos, ciudades, etc, todos constituyen “Terreno Difícil” que ralentiza el movimiento. <br>
 • Además, terrenos como bosques y torres pueden proporcionar algo de cobertura de los efectos del disparo. <br>
@@ -83,7 +86,7 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 • Los puentes que atraviesan ríos y/o arroyos no cuentan como terreno difícil. <br>
 <br>
 
-### MECÁNICA DE JUEGO Y RONDAS
+<h3 align="center"> MECÁNICA DE JUEGO Y RONDAS </h3>
 <br>
 <b>1.</b> Determinar la iniciativa (Juega 2D6, quien saque el número más alto inicia)<br>
 <b>2.</b> El número más alto de iniciativa, será la cantidad de Puntos de Acción (PA) para ambos.<br>
@@ -92,7 +95,7 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 <b>5.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )<br>
 <br>
 
-### PUNTOS DE ACCIÓN (PA)
+<h3 align="center"> PUNTOS DE ACCIÓN (PA) </h3>
 <br>
 • Ambos jugadores tiran 2D6 al inicio de cada ronda, el mayor de los dos resultados <br>
   es el número de Puntos de acción (PA) que estarán disponibles para activar unidades de ambos jugadores en ese turno. <br>
@@ -101,21 +104,26 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
   del ejército, lo que hace que en ejércitos grandes sea más estratégica cada jugada.<br>
 <br>
 
-### ACTIVAR UNIDADES 
+<h3 align="center"> ACTIVAR UNIDADES  </h3>
+
+<div align="center">
 
 |Acción		|	Descripción	|
-|---		|--- 			|
+|:---:		|:--- 			|
 |Quieto		|No mueve, pero puede disparar |
 |Caminar	|Camina la mitad de su movimiento y dispara al finalizar el movimiento. |
 |Correr     |No dispara, puede correr el máximo de su movimiento. |
 
+</div>
+<br>
 
-### ZONAS DE CONQUISTA
+<h3 align="center"> ZONAS DE CONQUISTA </h3>
+
 <br>• Colocar 3, 5 o 7 objetivos, cada uno fuera de las zonas de despliegue y a más de 14 cm de distancia entre sí. Al final de cada ronda, si una unidad está a 3 cm o menos de un marcador, entonces se captura y  permanece a quien lo conquiste, a menos que el enemigo elimine todas las unidades opuestas. 
 <br>• Si las unidades de ambos bandos están disputando un mismo marcador, pueden marcar como neutral. 
 
 
-### MOVIMIENTO EN TERRENOS
+<h3 align="center"> MOVIMIENTO EN TERRENOS </h3>
 <br>
 <b>• Terreno de cobertura:</b> Las unidades que disparan a los enemigos con la o las miniaturas a cubierto obtienen -1 en las tiradas para impactar.
 <br>
@@ -126,7 +134,8 @@ Si el resultado es un éxito la unidad recibe una herida.
 <br>
 <br>
 
-### ATAQUE A DISTANCIA
+
+<h3 align="center">ATAQUE A DISTANCIA </h3>
 <br>
 • Las unidades atacan con (2D6) en combates a distancia.<br>
 • Cada fallo crítico (1) provoca una herida<br>
@@ -135,8 +144,9 @@ Si el resultado es un éxito la unidad recibe una herida.
 • Las unidades solo pueden disparar una vez por turno. (a menos que tengan habilidades especiales)<br>
 <br>
 
-### ATAQUE CUERPO A CUERPO (CC)
+<h3 align="center"> ATAQUE CUERPO A CUERPO (CC) </h3>
 <br>
+ 
 • Dos unidades a menos de (3cm), se enfrentarán cuerpo a cuerpo (CC). <br>
 • Las unidades atacan con (3D6) en cuerpo a cuerpo (CC).<br>
 • Cada fallo crítico (1) provoca una herida<br>
@@ -146,35 +156,44 @@ Si el resultado es un éxito la unidad recibe una herida.
 • Si se contacta con una unidad enemiga como resultado del avance, se combate (CC) inmediatamente.<br>
 <br>
 
-### HERIDAS
+<h3 align="center"> HERIDAS </h3>
 <br>
+
 • Cada vez que una unidad en defensa saca un fallo crítico, recibe una herida. Juega 1D6 para verificar si está herido. La unidad solo puede soportar 3 puntos de herida, luego de eso queda fuera de combate. 
 <br>
 	
+<div align="center">
+
 |Dado |resultado  |Puntos de herida |
-|---  |---|---|
+|:---:  |:---|:---:|
 | 1 - 3 |🤕 Levemente Herido | 1 |
 | 4 - 6 |🩸 Gravemente herido| 2 |
 
+</div>
 
-### TIPOS DE TIRADA
-<br>
-• Todos los impactos se anotan con una tirada de 4 o más. Excepto que existan modificadores.<br>
+<h3 align="center"> TIPOS DE TIRADA </h3>
+
+<div align="center">
 
 |Numero de dado | Tipo de tirada |
-|---            |---|
+|:---:           |:---|
 |  1            |💀 Fallo Crítico  |
 | 2,3           |😞 Fallo |
 | 4,5           |😃 Acierto |  
 |  6            |💥 Éxito  |
 
+<b>Todos los impactos se anotan con una tirada de 4 o más. Excepto que existan modificadores.</b>
+<br>
+</div>
 • Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. <br>
 • Los éxitos no se pueden evadir.<br>
 • Cada golpe anotado se aplica inmediatamente.<br>
 • Todas las unidades juegan (3D6) en combate (CC) y (2D6) a distancia<br>
 <br>
 
-### TABLA DE REFERENCIA 
+<h3 align="center"> TABLA DE REFERENCIA  </h3>
+
+
 Si bien las unidades traen los puntos de referencia, aqui estan por si no quieres imprimir nada. 
 <br><b>• ID:</b> Identificador de unidad.
 <br><b>• Nombre:</b> Nombre táctico de la unidad
@@ -184,8 +203,10 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br><b>• CC:</b> Ataque cuerpo a cuerpo.
 <br><b>• Movimiento:</b> La distancia máxima que puede mover (cm)
 
+<div align="center">
+
 |ID |  Nombre | Salud | Resistencia | AD | CC | Movimiento | 
-|---|---      |---    |---          |--- |--- |---         |
+|:---:|:---:      |:---:    |:---:          |:---: |:---: |:---:         |
 |A  |Alpha    |5      |4            |2   |3   |6           |
 |B  |Bravo    |4|3|2|3|8|
 |E  |Eco      |3|2|2|3|8|
@@ -193,29 +214,37 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 |D  |Delta    |1|1|2|3|8|
 |T  |Tango    |2|2|2|3|10|
 
+</div>
+
 • Los jugadores siempre tienen dos dados para (PA), independientemente del tamaño del ejército.
 <br>• Si bien se calculan 15 unidades y límites por cada tipo de unidad para batallas básicas, siéntase libre de agregar más unidades para hacer batallas más interesantes y divertidas.
 <br>• Todas las unidades pueden subir de rango. Para ello deben destruir dos unidades enemigas. 
 <br>• El rango máximo alcanzable por unidades en ascenso es Alpha
 <br>• Cuando una unidad sube de rango entra al campo de batalla como si fuera una completamente nueva y saludable. 
 <br>• Para subir de rango, la unidad debe destruir al menos 2 unidades enemigas.  
+<div align="center">
+
 |unidad| unidades destruidas | sube a nivel | 
-|---| ---| ---|
+|:---:|:---|:---|
 |Delta  | Destruye 2 unidades enemigas | Sube a Eco o Tango |
 |Eco    | Destruyen 2 unidades enemigas|  Sube a Bravo |
 |Bravo  | Destruye 2 unidades enemigas  |  Sube a Alpha ó Tango |
+
+</div>
 <br>
 
-
-
-### HABILIDADES ESPECIALES <a href="RPG-cards.pdf">(PDF)</a>
 <div align="center">
+
+<h3 align="center"> HABILIDADES ESPECIALES <a href="RPG-cards.pdf">(PDF)</a> </h3>
+
 <img src="example-card.png" width="190" height="250"><br>
-</div>
+
 • Todas las cartas deben descartarse al mazo una vez utilizadas. 
 
+
+
 |Habilidad| Uso | Resultado |
-|---|---|---|
+|:---:|:---|:---|
 |Dosis de MA+ | Usas una inyección de (Morfina+Adrenalina), e inmediatamente después, sientes como tu cuerpo se llena de adrenalina y la pequeña dosis de morfina hace el resto del trabajo. | Gastas un punto de salud y sumas un dado extra en tu jugada de ataque. |
 |U.E.A.S. (Viento Divino)| Unidad Especial de Ataque Shinpū: Corres deliberadamente hacia tu enemigo y detonas una granada a los pies de tu oponente . Juega esta carta cuando tu unidad esté en 1 punto de salud.| Remueve tu unidad del campo de batalla y la unidad enemiga recibe 2 puntos de daño imbloqueable. 
 |Espionaje | El espía se escabulle entre las unidades enemigas y obtiene información clasificada. Juega  esta carta en cualquier momento dentro de tu turno. |Tu oponente revela aleatoriamente una de sus cartas en mano.
@@ -228,11 +257,13 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 |Mina explosiva| Si levantas esta carta del mazo, debes jugarla inmediatamente. Si esta carta te toca en la primera mano, devuélvela y mezcla el mazo. | Recibes automáticamente 1 punto de daño imbloqueable.|
 |Habilidad de Canguro| Puedes mover una unidad en cualquier momento de tu turno (en fase de ataque). | Desplaza una de tus unidades a un lateral (izquierdo o derecho) a una distancia de 3 cm, o hasta donde te permita sin chocar unidades u objetos.|
 |Habilidad de Cheetah| Juega esta carta en la etapa de movimiento, te permitirá mover tu unidad un rango extra| Desplaza una de tus unidades 3 cm extra.|
+</div>
 
 <br>
 
-### UNIDADES ESPECIALES
+<h3 align="center"> UNIDADES ESPECIALES </h3>
 <br>
+
 <b>Cuando juegues con unidades especiales puedes agregar características a tus unidades. Mezcla el mazo de cartas especiales y reparte 4 a cada jugador. Las cartas una vez usadas vuelven al mazo. Las cartas restantes en el mazo servirán cuando una unidad especial ascienda de rango. </b>
 <br>
 <br><b>• Unidad Tango:</b>  Estas unidades especiales poseen características unicas. Fueron entrenadas en campamentos militares especializados, por ello puedes configurarlas como desees. 
@@ -243,7 +274,10 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br>
 <br>
 
-### USO DE TOKENS Y UNIDADES
+
+
+<h3 align="center"> USO DE TOKENS Y UNIDADES </h3>
+
 <br>
 • Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar la cantidad de dados y evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original.
 <br>
@@ -252,10 +286,14 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 </div>
 <br>
 
-### PUNTOS DE VICTORIA
+
+
+<h3 align="center">  PUNTOS DE VICTORIA </h3>
+
+<div align="center">
 
 |Objetivo | puntos |
-|---|---|
+|:---|:---:|
 |Controlar objetivo. 											|🥉 (1PV)|
 |Tener al menos una unidad en la zona del enemigo 							|🥉 (1PV)|
 |Destruir por lo menos 1 enemigos a distancia en una ronda						|🥉 (1PV)|
@@ -268,18 +306,20 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 |Destruir por lo menos 6 enemigos a distancia 								|🥇 (5PV)|
 |Controlar todos los objetivos en una ronda								|🎖️ (6PV)|
 
+</div>
 Siéntete libre de ajustar estos valores para representar ejércitos más fuertes o más débiles, para escenarios específicos , para juegos más largos y estratégicos o bien juegos más cortos para la hora del café
 <br><br>
 
+<h3 align="center">  GANAR EL JUEGO  </h3>
 
-### GANAR EL JUEGO 
 <b>A) Dominar al enemigo:</b> El primer jugador que quede con 3 unidades, o menos, será derrotado. 
 <br><b>B) Dominar el campo de batalla:</b> Al final de cada ronda los jugadores chequean si pueden completar al menos un objetivo. Si lo logran, anotan los puntos.  Al final de 6 rondas quien sume más puntos gana la partida. 
 <br><br>
 
 
+<h3 align="center">  RESUMEN </h3>
 
-### RESUMEN 
+
 <br>
 <br>• Habilidades especiales: Reparte 4 cartas de habilidades especiales. 
 <br>• Juega iniciativa: juega 2d6 (el mas alto gana). 
@@ -287,13 +327,16 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 <br>• Activar unidades: inicia el jugador con mayor iniciativa, activando una unidad, luego el otro jugador activa otra unidad y así sucesivamente. 
 <br>
 
+<div align="center">
+
 |Acción|		Descripción|
-|---|---|
+|:---:|:---|
 |Quieto        		|No mueve, pero puede disparar. |
 |Caminar		|Camina la mitad de su movimiento y dispara al finalizar el movimiento.|
 |Correr        		|No dispara, puede correr el máximo de su movimiento. |
 |Habilidad especial 	|Juega una carta de habilidad especial. |
 
+</div>
 • Daños: calcular daños si los hay
 <br>• Heridas: calcular heridas si las hay
 <br>• Subir de rango: Chequea si una unidad puede subir de rango. Si es así, levanta una carta de habilidad especial. 
