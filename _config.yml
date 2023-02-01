@@ -1,4 +1,30 @@
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-remote-theme 
+- jekyll-paginate
+- jekyll-sitemap
 markdown: GFM
+
+title: ESCARAMUZAS DE CAFÉ
+description: Juego de mesa
+author: Jonathan Prado
+
+social-network-links:
+  email: "jpradoar@gmail.com"
+
+preferences:
+  - type: dropdown
+    name: language
+    label: Language
+    description: Choose your preferred language.
+    options:
+      - label: English
+        value: en
+      - label: Español
+        value: es
+
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+  vk: false
