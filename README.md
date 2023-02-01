@@ -207,12 +207,10 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 
 
 ### HABILIDADES ESPECIALES <a href="RPG-cards.pdf">(PDF)</a>
-• Todas las cartas deben descartarse al mazo una vez utilizadas. 
-
 <div align="center">
 <img src="example-card.png" width="190" height="250"><br>
 </div>
-<br> 
+• Todas las cartas deben descartarse al mazo una vez utilizadas. 
 
 |Habilidad| Uso | Resultado |
 |---|---|---|
@@ -229,7 +227,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 |Habilidad de Canguro| Puedes mover una unidad en cualquier momento de tu turno (en fase de ataque). | Desplaza una de tus unidades a un lateral (izquierdo o derecho) a una distancia de 3 cm, o hasta donde te permita sin chocar unidades u objetos.|
 |Habilidad de Cheetah| Juega esta carta en la etapa de movimiento, te permitirá mover tu unidad un rango extra| Desplaza una de tus unidades 3 cm extra.|
 
-
+<br>
 
 ### UNIDADES ESPECIALES
 <br>
@@ -240,7 +238,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br><b>• Médico:</b> Esta unidad de salud permite curar 1 punto de salud a una unidad aliada. El médico puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
 <br>• Para curar una unidad, debe estar en contacto (CC).
 <br>• La unidad a curar no puede estar en rango de ataque enemigo. 
-
+<br>
 
 
 ### USO DE TOKENS Y UNIDADES
