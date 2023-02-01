@@ -98,6 +98,7 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 <b>3.</b> Inicia el jugador con iniciativa. <br>
 <b>4.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón. ( Activa una unidad el jugador A, luego el jugador B activa otra, y así).<br>
 <b>5.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )<br>
+• <b>Los objetivos y como ganar el juego está al final.</b><br>
 <br>
 
 <h3 align="center"> PUNTOS DE ACCIÓN (PA) </h3>
