@@ -41,6 +41,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>• ◼️ Tokens negros: los uso para marcar cuando una unidad esta herida de muerte o bien esta comprometida por alguna otra situación. 
 <br>• 🚩 Tokens banteritas:  los uso para marcar zonas de conquista, así puedo saber de quien es la zona o punto conquistado. 
 <br>• 🪖 Unidades: tamaño 20x15x5   largo, alto, profundidad  (en milímetros). Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
+<br>• 🎲 Dados: Para llevar el conteo de puntos de cada jugador y el numero de rondas utilizo 3 dados, aunque no es necesario, practicamente lo puedes anotar en un papel. 
 <br>	
 <div align="center">
 <img src="tokens-mini.jpeg" width="500" height="310"><br>
