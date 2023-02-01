@@ -151,6 +151,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 
 <h3 align="center">ATAQUE A DISTANCIA </h3>
 <br>
+• Las unidades atacan a una distancia de 24cm (regla de movimiento 13cm + regla de ataque 11cm)<br>
 • Las unidades atacan con (2D6) en combates a distancia.<br>
 • Cada fallo crítico (1) provoca una herida<br>
 • Si en combate se obtiene 🎲🎲 (doble 1), la unidad entra en pánico y se retira la unidad del juego. <br>
@@ -199,10 +200,10 @@ Si el resultado es un éxito la unidad recibe una herida.
 <b>Todos los impactos se anotan con una tirada de 4 o más. Excepto que existan modificadores.</b>
 <br>
 </div>
-• Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. Para ello debe jugar la cantida de dados que indica su unidad. <br>
-• Los éxitos no se pueden evadir.<br>
 • Cada golpe anotado se aplica inmediatamente.<br>
 • Todas las unidades juegan (3D6) en combate (CC) y (2D6) a distancia<br>
+• Las unidades poseen su numero de dados de defensa o evadir.<br>
+• Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. Para ello debe jugar la cantida de dados que indica su unidad. Los éxitos no se pueden evadir.<br>
 <br>
 
 <div align="center">	
@@ -298,7 +299,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <h3 align="center"> USO DE TOKENS Y UNIDADES </h3>
 
 <br>
-• Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar la cantidad de dados y evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original.
+• Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original.
 <br>
 <div align="center">
 <img src="uso-de-tokens-salud.png"> <img src="token.png" width="250" height="170">
