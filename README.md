@@ -21,25 +21,25 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br><br>
 	
 <h3 align="center"> QUE NECESITAS PARA JUGAR </h3>
-
-<br>
-• Dos ejércitos de 15 Unidades cada uno. (puede ser menos si quieres que sea más rápido)<br>
-• 🎲🎲🎲🎲 dados de seis caras (4D6) por jugador. (aunque con solo 4 es suficiente) <br>
-• Una regla, o similar, para calcular las distancias de movimiento.<br>
-• Una superficie plana para jugar, de 90x60 cm funciona bien.<br>
-• Terrenos como bosques, rocas y bloques es opcional pero hace el juego mucho más divertido! (Puede ser cartulina, fieltro o bien dibujados en papel).<br>
-• Los terrenos como bosques o pantanos son aproximadamente entre 3cm a 5cm. <br>
-• Marcadores de puntos de control (puede ser cualquier cosa, hasta una moneda).<br>
-<br>
-
-<h3 align="center"> 🛠️ COMO ARMARLO </h3>
 <b><div align="center">ℹ️ Practicamente puedes imprimir todo y jugar. ✂️ </div></b>
 <br>
 <br>
-<br>• O mejor aún, armarlo con lo que tengas a mano, cubos de madera o similar. En mi caso use un cartel de plástico y pegué sobre las piezas imágenes de las unidades. (las imprimí en A4 300g). 
-<br>• Los tokens o marcadores de salud y estado son del mismo material, solo que los pinté con acrílico. 
+• Dos ejércitos de 15 Unidades cada uno. (puede ser menos si quieres que sea más rápido)<br>
+• 🎲🎲🎲🎲 dados de seis caras (4D6) por jugador. (aunque con solo 4 es suficiente) <br>
+• Lápiz y papel para anotar tus conquistas y puntos de victoria. (Nosotros usamos 2 dados extra) <br>
+• Una regla, o similar, para calcular las distancias de movimiento (13cm) y disparo ( movimiento + 11cm )<br>
+• Una superficie plana para jugar de 90x60cm funciona bien. (Incluso lo jugamos en la mesa del bar 🍺).<br>
+• Terrenos como bosques, rocas y bloques es opcional pero hace el juego mucho más divertido! (puede ser cartulina de color, fieltro, dibujados en papel y hasta <b>dibujado con Tiza en el suelo. Y créeme que este último fue un éxito!!</b>).<br>
+• Los terrenos como bosques o pantanos son aproximadamente entre 3cm a 5cm. <br>
+• Marcadores de puntos de control 🚩 (puede ser cualquier cosa, hasta una moneda).<br>
+<br>
+
+<h3 align="center"> 🛠️ COMO ARMARLO </h3>
+<br>
+<br>• Puedes imprimir todo y jugar, o mejor aún, armarlo con lo que tengas a mano, por ejemplo, cubos de madera. En mi caso use un cartel de plástico y pegué sobre las piezas imágenes de las unidades. (las imprimí en A4 300g). 
+<br>• 🖌️ Los tokens o marcadores de salud y estado son del mismo material, solo que los pinté con acrílico. 
 <br>• 🔢 Tokens con números: los uso para el control de salud de las unidades y reducir la cantidad de dados. (y evitar girar las unidades).
-<br>• 🟥 Tokens rojos: los uso para marcar cuando una unidad esta herida.
+<br>• 🟥 Tokens rojos: los uso para marcar cuando una unidad esta herida o le queda 1 punto de vida.
 <br>• ◼️ Tokens negros: los uso para marcar cuando una unidad esta herida de muerte o bien esta comprometida por alguna otra situación. 
 <br>• 🚩 Tokens banteritas:  los uso para marcar zonas de conquista, así puedo saber de quien es la zona o punto conquistado. 
 <br>• 🪖 Unidades: tamaño 20x15x5   largo, alto, profundidad  (en milímetros). Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
@@ -73,16 +73,14 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <h3 align="center"> CONFIGURACIÓN DEL JUEGO </h3>
 <br>
 • Ambos jugadores arman el terreno, puede ser aleatoriamente o bien usar un escenario y colocan los puntos de control. <br>
-• Una vez terminado de armar el terreno, vuelven a jugar (1D6) y el ganador <br>
-  decide si rotan de posición de terreno o se quedan donde están. <br>
+• Una vez terminado de armar el terreno, vuelven a jugar (1D6) y el ganador decide si rotan de posición de terreno o se quedan donde están. <br>
 • Los ejércitos deben desplegarse mínimo a 30 o 40 cm entre sí y a 3 cm del borde del tablero.<br>
-• Al colocar por primera vez, las unidades deben estar boca abajo, estas se voltean una vez que inicie <br>
-la primera partida del juego. (tu contrincante no ve que tipo de unidad está en cada posición hasta que inicia el juego)<br>
+• Al colocar por primera vez, las unidades deben estar boca abajo, estas se voltean una vez que inicie la primera partida del juego. (tu contrincante no ve que tipo de unidad está en cada posición hasta que inicia el juego)<br>
 • Reparte 4 cartas de habilidades especiales.<br>
+<div align="center"><img src="map-01.png"></div>
 <br>
 
 <h3 align="center"> TERRENO </h3>
-<br>
 • Áreas de bosques, arroyos, lagos, ciudades, etc, todos constituyen “Terreno Difícil” que ralentiza el movimiento. <br>
 • Además, terrenos como bosques y torres pueden proporcionar algo de cobertura de los efectos del disparo. <br>
 • Define con tu oponente antes del juego qué terreno cuenta como terreno accidentado y/o cubierta. <br>
@@ -90,24 +88,21 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 <br>
 
 <h3 align="center"> MECÁNICA DE JUEGO Y RONDAS </h3>
-<br>
-<div align="center"><img src="flujo-01.png"></div>
-<br>
+
 <b>1.</b> Determinar la iniciativa (Juega 2D6, quien saque el número más alto inicia)<br>
-<b>2.</b> El número más alto de iniciativa también será la cantidad de <b>Puntos de Acción (PA) para ambos.</b> (la cantidad de unidades que podras utilizar en esa ronda)<br>
+<b>2.</b> El número más alto de iniciativa también será la cantidad de <b>Puntos de Acción (PA) para ambos.</b> (la cantidad de unidades que podras activar/utilizar en esa ronda)<br>
 <b>3.</b> Inicia el jugador con iniciativa. <br>
 <b>4.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón. ( Activa una unidad el jugador A, luego el jugador B activa otra, y así).<br>
 <b>5.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )<br>
 • <b>Los objetivos y como ganar el juego está al final.</b><br>
+<div align="center"><img src="flujo-01.png"></div>
 <br>
 
 <h3 align="center"> PUNTOS DE ACCIÓN (PA) </h3>
 <br>
-• Ambos jugadores tiran 2D6 al inicio de cada ronda, el mayor de los dos resultados <br>
-  es el número de Puntos de acción (PA) que estarán disponibles para activar unidades de ambos jugadores en ese turno. <br>
+• Ambos jugadores tiran 2D6 al inicio de cada ronda, el mayor de los dos resultados es el número de Puntos de acción (PA) que estarán disponibles para activar unidades de ambos jugadores en ese turno. <br>
 • Los jugadores pueden gastar o no el máximo de (PA) que obtuvieron en la tirada de PA.<br>
-• Los jugadores siempre tienen dos dados (2D6) de (PA), independientemente del tamaño <br>
-  del ejército, lo que hace que en ejércitos grandes sea más estratégica cada jugada.<br>
+• Los jugadores siempre tienen dos dados (2D6) de (PA), independientemente del tamaño del ejército, lo que hace que en ejércitos grandes sea más estratégica cada jugada.<br>
 <br>
 
 <h3 align="center"> ACTIVAR UNIDADES  </h3>
