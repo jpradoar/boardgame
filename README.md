@@ -33,8 +33,10 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>
 
 <h3 align="center"> 🛠️ COMO ARMARLO </h3>
+<b><div align="center">ℹ️ Practicamente puedes imprimir todo y jugar. ✂️ </div></b>
 <br>
-• Puedes imprimir y ya, o bien, armarlo con lo que tengas a mano, cubos de madera o similar. En mi caso use un cartel de plástico y pegué sobre los cubos las imágenes de las unidades. (las imprimí en A4 300g). 
+<br>
+<br>• O mejor aún, armarlo con lo que tengas a mano, cubos de madera o similar. En mi caso use un cartel de plástico y pegué sobre las piezas imágenes de las unidades. (las imprimí en A4 300g). 
 <br>• Los tokens o marcadores de salud y estado son del mismo material, solo que los pinté con acrílico. 
 <br>• 🔢 Tokens con números: los uso para el control de salud de las unidades y reducir la cantidad de dados. (y evitar girar las unidades).
 <br>• 🟥 Tokens rojos: los uso para marcar cuando una unidad esta herida.
