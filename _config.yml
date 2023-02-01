@@ -12,6 +12,9 @@ author: Jonathan Prado
 social-network-links:
   email: "jpradoar@gmail.com"
 
+template:
+  name: github-pages-with-jekyll
+  repo: github-pages-with-jekyll-template
 preferences:
   - type: dropdown
     name: language
