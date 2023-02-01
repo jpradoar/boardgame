@@ -44,7 +44,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <div align="center">
 <img src="tokens-mini.jpeg" width="500" height="310"><br>
 </div>	
-	
+<br>	
 	
 	
 ### EJÉRCITOS  
@@ -167,6 +167,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 | 2,3           |😞 Fallo |
 | 4,5           |😃 Acierto |  
 |  6            |💥 Éxito  |
+
 • Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. <br>
 • Los éxitos no se pueden evadir.<br>
 • Cada golpe anotado se aplica inmediatamente.<br>
@@ -191,6 +192,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 |M  |Médico   |2|2|1|2|13|
 |D  |Delta    |1|1|2|3|8|
 |T  |Tango    |2|2|2|3|10|
+
 • Los jugadores siempre tienen dos dados para (PA), independientemente del tamaño del ejército.
 <br>• Si bien se calculan 15 unidades y límites por cada tipo de unidad para batallas básicas, siéntase libre de agregar más unidades para hacer batallas más interesantes y divertidas.
 <br>• Todas las unidades pueden subir de rango. Para ello deben destruir dos unidades enemigas. 
@@ -239,7 +241,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br>• Para curar una unidad, debe estar en contacto (CC).
 <br>• La unidad a curar no puede estar en rango de ataque enemigo. 
 <br>
-
+<br>
 
 ### USO DE TOKENS Y UNIDADES
 <br>
@@ -292,8 +294,7 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 |Correr        		|No dispara, puede correr el máximo de su movimiento. |
 |Habilidad especial 	|Juega una carta de habilidad especial. |
 
-<br>
-<br>• Daños: calcular daños si los hay
+• Daños: calcular daños si los hay
 <br>• Heridas: calcular heridas si las hay
 <br>• Subir de rango: Chequea si una unidad puede subir de rango. Si es así, levanta una carta de habilidad especial. 
 <br>• Resultados: una vez que todas las unidades de ambos jugadores fueron activadas se verifica y calcula puntos de “Dominar el campo de batalla”.
