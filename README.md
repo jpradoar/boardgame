@@ -120,11 +120,19 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 
 <h3 align="center"> ZONAS DE CONQUISTA </h3>
 
-<br>• Colocar 3, 5 o 7 objetivos, cada uno fuera de las zonas de despliegue y a más de 14 cm de distancia entre sí. Al final de cada ronda, si una unidad está a 3 cm o menos de un marcador, entonces se captura y  permanece a quien lo conquiste, a menos que el enemigo elimine todas las unidades opuestas. 
+<br>• Colocar 3, 5 o 7 objetivos, cada uno fuera de las zonas de despliegue y a más de 14 cm de distancia entre sí. Al final de cada ronda, si una unidad está a 3 cm o menos de una de ellas, entonces se captura y permanece a quien lo conquiste, a menos que el enemigo elimine todas las unidades opuestas y recapture la zona. 
 <br>• Si las unidades de ambos bandos están disputando un mismo marcador, pueden marcar como neutral. 
+<br>
+<div align="center">	
+<img src="captura-ref.jpeg">
+</div>
+<br>
+
 
 
 <h3 align="center"> MOVIMIENTO EN TERRENOS </h3>
+<br>
+<b>• Terreno normal:</b> Las unidades se mueven libremente por terrenos normales. Cada unidad posee su distancia de movimiento. 
 <br>
 <b>• Terreno de cobertura:</b> Las unidades que disparan a los enemigos con la o las miniaturas a cubierto obtienen -1 en las tiradas para impactar.
 <br>
@@ -133,6 +141,11 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 <b>• Terreno peligroso:</b> Las miniaturas que se mueven por terreno peligroso igual que en terreno difícil, pero deben tirar 1D6, 
 Si el resultado es un éxito la unidad recibe una herida.
 <br>
+<div align="center">	
+<img src="movimientos-all-ref.jpeg">
+</div>
+<br>
+
 <br>
 
 
@@ -172,7 +185,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 
 </div>
 
-<h3 align="center"> TIPOS DE TIRADA </h3>
+<h3 align="center"> TIPOS DE TIRADA  </h3>
 
 <div align="center">
 
@@ -186,10 +199,15 @@ Si el resultado es un éxito la unidad recibe una herida.
 <b>Todos los impactos se anotan con una tirada de 4 o más. Excepto que existan modificadores.</b>
 <br>
 </div>
-• Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. <br>
+• Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. Para ello debe jugar la cantida de dados que indica su unidad. <br>
 • Los éxitos no se pueden evadir.<br>
 • Cada golpe anotado se aplica inmediatamente.<br>
 • Todas las unidades juegan (3D6) en combate (CC) y (2D6) a distancia<br>
+<br>
+
+<div align="center">	
+<img src="ataque-02-ref.jpeg">
+</div>
 <br>
 
 <h3 align="center"> TABLA DE REFERENCIA  </h3>
@@ -284,6 +302,8 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br>
 <div align="center">
 <img src="uso-de-tokens-salud.png"> <img src="token.png" width="250" height="170">
+<br>
+<img src="daños-ref.jpeg"> 
 </div>
 <br>
 
