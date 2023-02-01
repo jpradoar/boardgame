@@ -92,9 +92,9 @@ la primera partida del juego. (tu contrincante no ve que tipo de unidad está en
 <h3 align="center"> MECÁNICA DE JUEGO Y RONDAS </h3>
 <br>
 <b>1.</b> Determinar la iniciativa (Juega 2D6, quien saque el número más alto inicia)<br>
-<b>2.</b> El número más alto de iniciativa, será la cantidad de Puntos de Acción (PA) para ambos.<br>
+<b>2.</b> El número más alto de iniciativa, será la cantidad de <b>Puntos de Acción (PA) para ambos.</b><br>
 <b>3.</b> Inicia el jugador con iniciativa. <br>
-<b>4.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón y jugando.<br>
+<b>4.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón.<br>
 <b>5.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )<br>
 <br>
 
