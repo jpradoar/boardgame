@@ -1,5 +1,5 @@
 # ESCARAMUZAS DE CAFÉ 
-#### E.D.C. Wargame - v0.2.0
+#### E.D.C. Fantasy Wargame - v0.2.0
 
 
 <br>
@@ -10,28 +10,28 @@
 
 <h3 align="center"> EL JUEGO </h3>
 <b>EDC</b>: Es un juego de mesa diseñado para ser desarrollado en el tiempo que demora esperar y beber un café (20, 30min). <br>
-El mismo supone una pequeña batalla (escaramuza) entre dos bandos con un sistema de juego simple, rápido y a la vez divertido. 
-<p>Las unidades no tienen estereotipo, lo cual evita que el juego este enmarcado en un punto histórico, de heco, si quieres simular una situación histórica o futurista puedes hacerlo. ( si bien tiene un estilo militar, puedes modificarlo para adaptarlo a una época en particular). Las unidades tienen sus propias características sobre ellas, lo que ayuda a simplificar los movimientos y tiradas de dados.<br>
-Los tamaños rondan los 2 cm la unidad, lo que te permitirá colocarlo en una pequeña bolsa y llevarlo a donde desees. Puedes jugar 1vs1 o 2vs2. (hemos jugado 2v2 y resulta muy divertido!). <br>
+El mismo supone una pequeña batalla (escaramuza) entre dos bandos, con un sistema de juego simple, rápido y a la vez divertido. 
+<p>Las unidades no tienen estereotipo, lo cual hace al juego bastante agnostico, de heco, si quieres simular una situación histórica o un mundo fantastico futurista puedes hacerlo. Las unidades tienen sus propias características sobre ellas, lo que ayuda a simplificar los movimientos y tiradas de dados. <br>
+Los tamaños rondan los 2 cm la unidad, para que puedas transportarlo en una pequeña bolsa a donde desees. Puedes jugar 1vs1,  2vs2 o más. (hemos jugado 2v2 y resulta muy divertido!). <br>
 El objetivo primordial es que cualquera pueda sentarse, jugar y compartir un buen momento. 🫂 <br>
 <p>
 	
 Completamente <b>Open-Source y PNP (print & play)</b>. Imprime 🖨️ Arma 🛠️ Juega 🎲. 
-Sientete libre de modificar a tu gusto lo que consideres que será mas divertido y, si crees que puedes agregarle algo más, compartelo aqui mismo.
+Sientete libre de modificar a tu gusto lo que consideres que será mas divertido y, si crees que puedes agregarle algo, compartelo aqui mismo.
 <br><br>
 	
 <h3 align="center"> QUE NECESITAS PARA JUGAR </h3>
 <b><div align="center">ℹ️ Practicamente puedes imprimir todo y jugar. ✂️ </div></b>
 <br>
 <br>
-• Dos ejércitos de 15 Unidades cada uno. (puede ser menos si quieres que sea más rápido)<br>
-• 🎲🎲🎲🎲 dados de seis caras (4D6) por jugador. (aunque con solo 4 es suficiente) <br>
+• Dos ejércitos de 15 Unidades cada uno. (puede ser menos, si quieres que sea más rápido)<br>
+• 4 🎲 dados de seis caras (4D6) por jugador. (aunque con solo 4 es suficiente) <br>
 • Lápiz y papel para anotar tus conquistas y puntos de victoria. (Nosotros usamos 2 dados extra) <br>
 • Una regla, o similar, para calcular las distancias de movimiento (13cm) y disparo ( movimiento + 11cm )<br>
 • Una superficie plana para jugar de 90x60cm funciona bien. (Incluso lo jugamos en la mesa del bar 🍺).<br>
-• Terrenos como bosques, rocas y bloques es opcional pero hace el juego mucho más divertido! (puede ser cartulina de color, fieltro, dibujados en papel y hasta <b>dibujado con Tiza en el suelo. Y créeme que este último fue un éxito!!</b>).<br>
+• Terrenos como bosques, rocas, edificios y/o ciudades son opcionales, pero hacen al juego mucho más divertido! (puede ser cartulina, cajitas de carton, fieltro, dibujados en papel y hasta <b>dibujado con Tiza en el suelo. Y créeme que este último fue un éxito!!</b>).<br>
 • Los terrenos como bosques o pantanos son aproximadamente entre 3cm a 5cm. <br>
-• Marcadores de puntos de control 🚩 (puede ser cualquier cosa, hasta una moneda).<br>
+• Marcadores de puntos de control 🚩 (puede ser cualquier cosa. Hemos usado hasta pequeñas monedas).<br>
 <br>
 
 <h3 align="center"> 🛠️ COMO ARMARLO </h3>
@@ -42,7 +42,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>• 🟥 Tokens rojos: los uso para marcar cuando una unidad esta herida o le queda 1 punto de vida.
 <br>• ◼️ Tokens negros: los uso para marcar cuando una unidad esta herida de muerte o bien esta comprometida por alguna otra situación. 
 <br>• 🚩 Tokens banteritas:  los uso para marcar zonas de conquista, así puedo saber de quien es la zona o punto conquistado. (podes usar cualquier cosa)
-<br>• 🪖 Unidades: tamaño 20x15x5   largo, alto, profundidad  (en milímetros). Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
+<br>• 👺 Unidades: tamaño 20x15x5 largo, alto, profundidad  (en milímetros). Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
 <br>• 🎲 Dados: Para llevar el conteo de puntos de cada jugador y el numero de rondas utilizo 3 dados, aunque no es necesario, practicamente lo puedes anotar en un papel. 
 <br>	
 <div align="center">
@@ -68,7 +68,7 @@ Las unidades tienen sus propias caracteristicas, pero para que sea mas pratico y
 	
 <h3 align="center"> CONFIGURACIÓN DEL JUEGO </h3>
 <br>
-• Ambos jugadores arman el terreno, puede ser aleatoriamente o bien usar un escenario y colocan los puntos de control. <br>
+• Ambos jugadores arman el terreno y colocan los puntos de control. Puede ser aleatoriamente o bien usar un escenario pre-definido. <br>
 • Una vez terminado de armar el terreno, juegan (1D6) y el ganador decide si rotan de posición de terreno o se quedan donde están. <br>
 • Los ejércitos deben desplegarse mínimo a 30 o 40 cm entre sí y a 3 cm del borde del tablero.  (aprox) <br>
 • Al colocar por primera vez las unidades en la mesa, éstas deben estar boca abajo, luego se voltean una vez que inicie la primera partida del juego. (tu contrincante no ve que tipo de unidad está en cada posición hasta que inicia el juego). Esta regla es opcional, pero hace que sea mas divertido.<br>
