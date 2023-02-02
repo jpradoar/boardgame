@@ -229,11 +229,6 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 |B  |Bravo    |4	|3		|2	|3	|8		|
 |A  |Alpha    |5      	|4            	|2    	|3    	|6           	|
 
-
-
-
-
-
 </div>
 
 • Los jugadores siempre tienen dos dados para (PA), independientemente del tamaño del ejército.
@@ -290,9 +285,6 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br>
 
 <h3 align="center"> UNIDADES ESPECIALES </h3>
-<br>
-
-<br>
 <br><b>• Médico:</b> Esta unidad de salud permite curar 1 punto de salud a una unidad aliada. El médico puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
 <br>• Para curar una unidad, debe estar en contacto (CC).
 <br>• La unidad a curar no puede estar en rango de ataque enemigo. 
