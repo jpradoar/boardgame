@@ -38,12 +38,12 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>
 <br>• Puedes imprimir todo y jugar, o mejor aún, armarlo con lo que tengas a mano, por ejemplo, cubos de madera, tapitas, etc. En mi caso use un cartel de plástico y pegué sobre las piezas imágenes de las unidades. (las imprimí en A4 300g). 
 <br>• 🖌️ Los tokens o marcadores de salud y estado son del mismo material, solo que los pinté con acrílico. 
-<br>• 🔢 Tokens con números: los uso para el control de salud de las unidades y reducir la cantidad de dados. (y evitar girar las unidades).
-<br>• 🟥 Tokens rojos: los uso para marcar cuando una unidad esta herida o le queda 1 punto de vida.
-<br>• ◼️ Tokens negros: los uso para marcar cuando una unidad esta herida de muerte o bien esta comprometida por alguna otra situación. 
-<br>• 🚩 Tokens banteritas:  los uso para marcar zonas de conquista, así puedo saber de quien es la zona o punto conquistado. (podes usar cualquier cosa)
-<br>• 👺 Unidades: tamaño 20x15x5 largo, alto, profundidad  (en milímetros). Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
-<br>• 🎲 Dados: Para llevar el conteo de puntos de cada jugador y el numero de rondas utilizo 3 dados, aunque no es necesario, practicamente lo puedes anotar en un papel. 
+<br>• 🔢 <b>Tokens con números</b>: los uso para el control de salud de las unidades y reducir la cantidad de dados. (y evitar girar las unidades).
+<br>• 🟥 <b>Tokens rojos</b>: los uso para marcar cuando una unidad esta herida o le queda 1 punto de vida.
+<br>• ◼️ <b>Tokens negros</b>: los uso para marcar cuando una unidad esta herida de muerte o bien esta comprometida por alguna otra situación. 
+<br>• 🚩 <b>Tokens banteritas</b>:  los uso para marcar zonas de conquista, así puedo saber de quien es la zona o punto conquistado. (podes usar cualquier cosa)
+<br>• 👺 <b>Unidades</b>: tamaño 20x15x5 largo, alto, profundidad  (en milímetros). Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
+<br>• 🎲 <b>Dados</b>: Para llevar el conteo de puntos de cada jugador y el numero de rondas utilizo 3 dados, aunque no es necesario, practicamente lo puedes anotar en un papel. 
 <br>	
 <div align="center">
 <img src="tokens-mini.jpeg" width="500" height="310"><br>
