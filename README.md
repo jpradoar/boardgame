@@ -343,7 +343,7 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 <br><br>
 
 
-<h3 align="center">  RESUMEN </h3>
+<h3 align="center">  RESUMEN Y LÓGICA FUNCIONAL</h3>
 
 
 <br>
@@ -368,3 +368,10 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 <br>• Subir de rango: Chequea si una unidad puede subir de rango. Si es así, levanta una carta de habilidad especial. 
 <br>• Resultados: una vez que todas las unidades de ambos jugadores fueron activadas se verifica y calcula puntos de “Dominar el campo de batalla”.
 <br>• Vuelve al punto 2. 
+
+<br><br>
+<div align="center">
+<img src="EDC-LOGICA-FUNCIONAL.png">
+</div>
+
+
