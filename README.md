@@ -142,7 +142,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 Si el resultado es un éxito la unidad recibe una herida.
 <br>
 <div align="center">	
-<img src="movimientos-all-ref.jpeg">
+<img src="movimientos-all-ref.jpeg" width="300" height="600">
 </div>
 <br>
 
