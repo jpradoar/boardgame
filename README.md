@@ -345,5 +345,5 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 
 <br><br>
 <div align="center">
-<img src="EDC-LOGICA-FUNCIONAL.png">
+<img src="EDC-LOGICA-FUNCIONAL.png"  width="100%" height="100%">
 </div>
