@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
-<img src="portada-01.jpeg" width="90%" height="90%"><br>
+<img src="portada.jpeg" width="90%" height="90%"><br>
 </div>
 <br>  
 
