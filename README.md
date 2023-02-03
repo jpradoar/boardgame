@@ -285,7 +285,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br>
 
 <h3 align="center"> UNIDADES ESPECIALES </h3>
-<br><b>• Minguin:</b> Esta unidad de salud permite curar 1 punto de salud a una unidad aliada. El Minguin puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
+<br><b>• Minguin:</b> Esta unidad permite curar 1 punto de salud a una unidad aliada y hasta 2 puntos de heridas. El Minguin puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
 <br>• Para curar una unidad, debe estar en contacto (CC).
 <br>• La unidad a curar no puede estar en rango de ataque enemigo. 
 <br>
