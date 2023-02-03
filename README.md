@@ -55,12 +55,12 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <h3 align="center"> EJÉRCITOS  </h3> 
 <br>
 	
-Las unidades tienen sus propias caracteristicas, pero para que sea mas pratico y divertido usamos algunas letras y nombres personalizados.
-|**Identificador** | **Nombre** |**Identificador** | **Nombre** |
-|:---:|:---:|:---:|:---:|
-|  A |Alpha| M | Médico |
-|  B |Bravo| T | Tango |
-|  E |Eco  | D | Delta |
+Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para que sea mas divertido usamos algunas letras, nombres e imagenes. (Este punto es completamente ilustrativo y no cumple ninguna funcion en el juego) 
+|**Identificador** 	| **Nombre** 	| **Imagen** 	|**Identificador** 	| **Nombre** 	| **Imagen** 	|
+|:---:			|:---:		|:---:		|:---:			|:---:		|:---:		|
+|  A 			|Alpha 		| <img src="char_alpha.png" width="150" height="100"> |  M 			|Minguin 	|<img src="char_minguin.png" width="150" height="100"> |
+|  B 			|Baramon 	| <img src="char_baramon.png" width="150" height="100"> |  T 			|Thanary 	|<img src="char_thanary.png" width="150" height="100"> |
+|  E 			|Eco   		| <img src="char_eco.png" width="150" height="100"> |  D 			|Domucor 	| <img src="char_domucor.png" width="150" height="100"> |
 
 <a href="easy-units.pdf"> Unidades simples (PDF)</a> <a href="tokens-de-salud.pdf"> Tokens de salud (PDF) </a>
 </div>
@@ -222,11 +222,11 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 
 |ID |  Nombre | Salud 	| Resistencia 	| AD  	| CC  	| Movimiento 	| 
 |:---:|:---:  |:---:  	|:---:        	|:---:	|:---:	|:---:       	|
-|D  |Delta    |1	|1		|2	|3	|8		|
-|T  |Tango    |2	|2		|2	|3	|10		|	
-|M  |Médico   |2	|2		|1	|2	|13		|
+|D  |Domucor    |1	|1		|2	|3	|8		|
+|T  |Thanary    |2	|2		|2	|3	|10		|	
+|M  |Minguin   |2	|2		|1	|2	|13		|
 |E  |Eco      |3	|2		|2	|3	|8		|
-|B  |Bravo    |4	|3		|2	|3	|8		|
+|B  |Baramon    |4	|3		|2	|3	|8		|
 |A  |Alpha    |5      	|4            	|2    	|3    	|6           	|
 
 </div>
@@ -245,11 +245,11 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 	
 |Unidad	| Unidades enemigas destruidas 	| Acción 		| 
 |:---:	|:---				|:---			|
-|Delta  | Destruye 1 unidad enemiga     | Levanta una carta  	|
-|Tango  | Destruye 2 unidades enemigas  | Levanta una carta  	|	
-|Médico | Destruye 2 unidades enemigas  | Levanta una carta  	|	
+|Domucor  | Destruye 1 unidad enemiga     | Levanta una carta  	|
+|Thanary  | Destruye 2 unidades enemigas  | Levanta una carta  	|	
+|Minguin | Destruye 2 unidades enemigas  | Levanta una carta  	|	
 |Eco    | Destruye 3 unidades enemigas  | Levanta una carta  	|
-|Bravo  | Destruye 3 unidades enemigas  | Levanta una carta  	|
+|Baramon  | Destruye 3 unidades enemigas  | Levanta una carta  	|
 |Alpha  | Destruye 3 unidades enemigas  | Levanta una carta  	|
 	
 </div>
@@ -285,7 +285,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br>
 
 <h3 align="center"> UNIDADES ESPECIALES </h3>
-<br><b>• Médico:</b> Esta unidad de salud permite curar 1 punto de salud a una unidad aliada. El médico puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
+<br><b>• Minguin:</b> Esta unidad de salud permite curar 1 punto de salud a una unidad aliada. El Minguin puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
 <br>• Para curar una unidad, debe estar en contacto (CC).
 <br>• La unidad a curar no puede estar en rango de ataque enemigo. 
 <br>
@@ -366,5 +366,3 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 <div align="center">
 <img src="EDC-LOGICA-FUNCIONAL.png">
 </div>
-
-
