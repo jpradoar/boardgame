@@ -103,11 +103,13 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 <h3 align="center"> ACTIVAR UNIDADES  </h3>
 <div align="center">
 
-|Acción		|	Descripción	|
-|:---:		|:--- 			|
-|Quieto		|No mueve, pero puede disparar |
-|Caminar	|Camina la mitad de su movimiento y dispara al finalizar el movimiento. |
-|Correr         |No dispara, puede correr el máximo de su movimiento. |
+|Acción			|	Descripción	|
+|:---:			|:--- 			|
+|Atacar			|No mueve, pero puede disparar |
+|Atacar	+ Mover 	|Dispara y puede mover la mitad de su movimiento máximo. |
+|Mover + Atacar		|Camina la mitad de su movimiento máximo y dispara al finalizar el movimiento. |
+|Correr (Mover+Mover) 	|No dispara, puede correr el máximo de su movimiento. |
+|Habilidad especial 	|Juega una carta de habilidad especial. |
 
 </div><br>
 
@@ -134,9 +136,10 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 <br>
 <b>• Terreno peligroso:</b> Las miniaturas que se mueven por terreno peligroso, mueven igual que en terreno difícil, pero deben tirar 1D6. 
 Si el resultado es un éxito la unidad recibe una herida.
-<br>
+<br>• <b>Regla de movimiento</b>: Puedes usar la clasica "Cinta métrica", en mi caso, arme una regla con las medidas de movimiento para que sea más practico.
+<br><br>
 <div align="center">	
-<img src="movimientos-all-ref.jpeg" width="300" height="600">
+<img src="movimientos-all-ref.jpeg" width="40%" height="40%">
 </div>
 <br>
 
@@ -165,6 +168,17 @@ Si el resultado es un éxito la unidad recibe una herida.
 • Si una unidad enemiga es destruida en combate (CC), entonces la unidad victoriosa puede avanzar directamente hacia adelante, a menos que el enemigo tenga una unidad de apoyo que se mueva hacia adelante para hacer contacto. <br>
 • Si se contacta con una unidad enemiga como resultado del avance, se combate (CC) inmediatamente.<br>
 <br>
+
+<h3 align="center"> PUNTOS DE REACCIÓN </h3>
+<br>
+<br>• Los puntos de reacción son acciones en las cuales no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esa en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar.
+<br>• Solo tienes 1 punto de reacción por ronda.  
+<br>• <b>Ataque de reacción</b>: Para realizar un ataque de reacción juegas 🎲 (1D6) y si sale 5 ó 6 aciertas el disparo. Este daño no se puede evadir ni esquivar ya que la unidad está en plena acción. 
+<br>
+<br>En este ejemplo la unidad azul(E) esta en su turno y en pleno movimiento del punto (A) al punto (B), pero también esta en completo rango de visión y ataque de la unidad roja(T). Entonces mientras la unidad azul esta corriendo hacia su nueva posición la unidad roja puede reaccionar atacandola.
+<div align="center"><img src="reaccion-ref.jpeg" width="50%" height="50%"></div>
+<br>
+
 
 <h3 align="center"> HERIDAS </h3>
 <br>
@@ -324,20 +338,9 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 <br>• Habilidades especiales: Reparte 4 cartas de habilidades especiales. 
 <br>• Juega iniciativa: juega 2d6 (el mas alto gana). 
 <br>• Puntos de acción: utiliza los PA y activa unidades. (usa el mayor número en Iniciativa para ambos jugadores)
-<br>• Activar unidades: inicia el jugador con mayor iniciativa, activando una unidad, luego el otro jugador activa otra unidad y así sucesivamente. 
-<br>
-
-<div align="center">
-
-|Acción|		Descripción|
-|:---:|:---|
-|Quieto        		|No mueve, pero puede disparar. |
-|Caminar		|Camina la mitad de su movimiento y dispara al finalizar el movimiento.|
-|Correr        		|No dispara, puede correr el máximo de su movimiento. |
-|Habilidad especial 	|Juega una carta de habilidad especial. |
-
-</div>
-• Daños: calcular daños si los hay
+<br>• Activar unidades: inicia el jugador con mayor iniciativa, activando sus unidades y luego el otro jugador activa sus unidades y así sucesivamente. 
+<br>• Reacción: Solo si tienes puntos de reacción puedes realizar un ataque a tu enemigo. (aunque no sea tu turno).
+<br>• Daños: calcular daños si los hay
 <br>• Heridas: calcular heridas si las hay
 <br>• Subir de rango: Chequea si una unidad puede subir de rango. Si es así, levanta una carta de habilidad especial. 
 <br>• Resultados: una vez que todas las unidades de ambos jugadores fueron activadas se verifica y calcula puntos de “Dominar el campo de batalla”.
