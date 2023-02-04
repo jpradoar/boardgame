@@ -151,8 +151,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 • Las unidades atacan a una distancia de 24cm (regla de movimiento 13cm + regla de ataque 11cm)<br>
 • Las unidades atacan con (2D6) en combates a distancia.<br>
 • Los aciertos son:  4, 5 o 6
-• Cada fallo crítico (1) provoca una herida<br>
-• Si en combate se obtiene 🎲🎲 (doble 1), la unidad entra en pánico y se retira la unidad del juego. <br>
+• Cada fallo crítico (1) provoca un punto de herida<br>
 • Los árboles y paredes pueden funcionar como terreno de cobertura <br>
 • Las unidades solo pueden disparar una vez por turno. (a menos que tengan habilidades especiales)<br>
 <br>
@@ -163,8 +162,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 • Dos unidades a menos de (3cm), se enfrentarán cuerpo a cuerpo (CC). <br>
 • Las unidades atacan con (3D6) en cuerpo a cuerpo (CC).<br>
 • Los aciertos son:  4, 5 o 6
-• Cada fallo crítico (1) provoca una herida<br>
-• Si se obtienen 🎲🎲🎲 (triple 1), la unidad entra en pánico y se retira la unidad del juego cuenta como destruido a efectos de puntos de victoria.<br>
+• Cada fallo crítico (1) provoca un punto de herida<br>
 • Si una unidad enemiga es destruida en combate (CC), entonces la unidad victoriosa puede avanzar directamente hacia adelante, a menos que el enemigo tenga una unidad de apoyo que se mueva hacia adelante para hacer contacto. <br>
 • Si se contacta con una unidad enemiga como resultado del avance, se combate (CC) inmediatamente.<br>
 <br>
@@ -175,7 +173,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 <br>• Solo tienes 1 punto de reacción por ronda.  
 <br>• <b>Ataque de reacción</b>: Para realizar un ataque de reacción juegas 🎲 (1D6) y si sale 5 ó 6 aciertas el disparo. Este daño no se puede evadir ni esquivar ya que la unidad está en plena acción. 
 <br>
-<br>En este ejemplo la unidad azul(E) esta en su turno y en pleno movimiento del punto (A) al punto (B), pero también esta en completo rango de visión y ataque de la unidad roja(T). Entonces mientras la unidad azul esta corriendo hacia su nueva posición la unidad roja puede reaccionar atacandola.
+<br>En este ejemplo la unidad azul(E) esta en su turno y en pleno movimiento del punto (A) al punto (B), pero también esta en completo rango de visión y ataque de la unidad roja(T). Entonces mientras la unidad azul(E) esta corriendo hacia su nueva posición la unidad roja(T) puede reaccionar atacandola.
 <div align="center"><img src="reaccion-ref.jpeg" width="50%" height="50%"></div>
 <br>
 
