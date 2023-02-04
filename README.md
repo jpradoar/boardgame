@@ -150,7 +150,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 <br>
 • Las unidades atacan a una distancia de 24cm (regla de movimiento 13cm + regla de ataque 11cm)<br>
 • Las unidades atacan con (2D6) en combates a distancia.<br>
-• Los aciertos son:  4, 5 o 6
+• Los aciertos son:  4, 5 o 6 <br>
 • Cada fallo crítico (1) provoca un punto de herida<br>
 • Los árboles y paredes pueden funcionar como terreno de cobertura <br>
 • Las unidades solo pueden disparar una vez por turno. (a menos que tengan habilidades especiales)<br>
@@ -161,7 +161,7 @@ Si el resultado es un éxito la unidad recibe una herida.
  
 • Dos unidades a menos de (3cm), se enfrentarán cuerpo a cuerpo (CC). <br>
 • Las unidades atacan con (3D6) en cuerpo a cuerpo (CC).<br>
-• Los aciertos son:  4, 5 o 6
+• Los aciertos son:  4, 5 o 6 <br>
 • Cada fallo crítico (1) provoca un punto de herida<br>
 • Si una unidad enemiga es destruida en combate (CC), entonces la unidad victoriosa puede avanzar directamente hacia adelante, a menos que el enemigo tenga una unidad de apoyo que se mueva hacia adelante para hacer contacto. <br>
 • Si se contacta con una unidad enemiga como resultado del avance, se combate (CC) inmediatamente.<br>
