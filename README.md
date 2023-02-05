@@ -48,11 +48,21 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <img src="tokens-mini.jpeg" width="500" height="310"><br>
 </div>	
 <br>	
-	
 
 <div align="center">	
+<h3> REFERENCIA DE UNIDADES  </h3> 
+
+|Salud 	     | Identificador |
+|:---	     |---:	     |
+|Resistencia |Movimiento     |	
+	
+<img src="unidad-ref.png"> 
+
+
+
 <h3 align="center"> EJÉRCITOS  </h3> 
 <br>
+
 	
 Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para que sea mas divertido usamos algunas letras, nombres e imagenes. (Este punto es completamente ilustrativo y no cumple ninguna funcion en el juego) 
 |**Identificador** 	| **Nombre** 	| **Imagen** 	|**Identificador** 	| **Nombre** 	| **Imagen** 	|
@@ -143,17 +153,29 @@ Si el resultado es un éxito la unidad recibe una herida.
 </div>
 <br>
 
+<h3 align="center"> TIPOS DE TIRADA 🎲 </h3>
+
+<div align="center">
+
+|Numero de dado | Tipo de tirada |
+|:---:           |:---|
+|  1            |💀 Fallo Crítico  |
+| 2,3           |😞 Fallo |
+| 4,5           |😃 Acierto |  
+|  6            |💥 Éxito  |
+
+</div>
 <br>
 
 
 <h3 align="center">ATAQUE A DISTANCIA </h3>
 <br>
-• Las unidades atacan a una distancia de 24cm (regla de movimiento 13cm + regla de ataque 11cm)<br>
+• Las unidades atacan a una distancia de 24cm (regla de movimiento 13cm + regla de ataque 11cm).<br>
 • Las unidades atacan con (2D6) en combates a distancia.<br>
 • Los aciertos son:  4, 5 o 6 <br>
-• Cada fallo crítico (1) provoca un punto de herida<br>
+• Cada fallo crítico (1) provoca un punto de herida.<br>
 • Los árboles y paredes pueden funcionar como terreno de cobertura <br>
-• Las unidades solo pueden disparar una vez por turno. (a menos que tengan habilidades especiales)<br>
+• Las unidades solo pueden disparar una vez por turno. (a menos que tengan habilidades especiales).<br>
 <br>
 
 <h3 align="center"> ATAQUE CUERPO A CUERPO (CC) </h3>
@@ -162,14 +184,16 @@ Si el resultado es un éxito la unidad recibe una herida.
 • Dos unidades a menos de (3cm), se enfrentarán cuerpo a cuerpo (CC). <br>
 • Las unidades atacan con (3D6) en cuerpo a cuerpo (CC).<br>
 • Los aciertos son:  4, 5 o 6 <br>
-• Cada fallo crítico (1) provoca un punto de herida<br>
+• Cada fallo crítico (1) provoca un punto de herida.<br>
 • Si una unidad enemiga es destruida en combate (CC), entonces la unidad victoriosa puede avanzar directamente hacia adelante, a menos que el enemigo tenga una unidad de apoyo que se mueva hacia adelante para hacer contacto. <br>
 • Si se contacta con una unidad enemiga como resultado del avance, se combate (CC) inmediatamente.<br>
 <br>
 
+<br>
+
 <h3 align="center"> PUNTOS DE REACCIÓN </h3>
 <br>
-<br>• Los puntos de reacción son acciones en las cuales no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esa en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar.
+<br>• Los puntos de reacción son acciones en las cuales no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esta en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar.
 <br>• Solo tienes 1 punto de reacción por ronda.  
 <br>• <b>Ataque de reacción</b>: Para realizar un ataque de reacción juegas 🎲 (1D6) y si sale 5 ó 6 aciertas el disparo. Este daño no se puede evadir ni esquivar ya que la unidad está en plena acción. 
 <br>
@@ -181,7 +205,8 @@ Si el resultado es un éxito la unidad recibe una herida.
 <h3 align="center"> HERIDAS </h3>
 <br>
 
-• Cada vez que una unidad en defensa saca un fallo crítico, recibe una herida. Juega 1D6 para verificar el tipo de herida. La unidad solo puede soportar 3 puntos de herida, luego de eso queda fuera de combate. 
+• Cada vez que una unidad saca un fallo crítico (1), recibe una herida. Juega 1D6 para verificar el tipo de herida. 
+<br>• La unidad solo puede soportar 3 puntos de herida, luego de eso queda fuera de combate. 
 <br>
 	
 <div align="center">
@@ -192,17 +217,9 @@ Si el resultado es un éxito la unidad recibe una herida.
 | 5 - 6 |🩸 Gravemente herido| 2 |
 
 </div>
+<br>
 
-<h3 align="center"> TIPOS DE TIRADA  </h3>
-
-<div align="center">
-
-|Numero de dado | Tipo de tirada |
-|:---:           |:---|
-|  1            |💀 Fallo Crítico  |
-| 2,3           |😞 Fallo |
-| 4,5           |😃 Acierto |  
-|  6            |💥 Éxito  |
+<h3 align="center"> EVADIR </h3>
 
 <b>Todos los impactos se anotan con una tirada de 4 o más. Excepto que existan modificadores.</b>
 <br>
