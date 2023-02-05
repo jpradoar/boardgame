@@ -61,7 +61,7 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 |  E 			|Eco   		| <img src="char_eco.png" width="100%" height="100%"> |  D 			|Domucor 	| <img src="char_domucor.png" width="100%" height="100%"> |
 
 <a href="easy-units.pdf"> Unidades simples (PDF)</a> <a href="tokens-de-salud.pdf"> Tokens de salud (PDF) </a>
-</div>
+
 <br><br>
 	
 <h3 align="center"> CONFIGURACIÓN DEL JUEGO </h3>
