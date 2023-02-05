@@ -224,13 +224,14 @@ Si el resultado es un éxito la unidad recibe una herida.
 <b>Todos los impactos se anotan con una tirada de 4 o más. Excepto que existan modificadores.</b>
 <br>
 </div>
+
 • Cada golpe acertado se aplica inmediatamente.<br>
 • Las unidades poseen su numero de dados de defensa o evadir.<br>
 • Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. Para ello debe jugar la cantidad de dados que indica su unidad. Los éxitos no se pueden evadir.<br>
 <br>
 
 <div align="center">	
-<img src="ataque-02-ref.jpeg">
+<img src="ataque-02-ref.jpeg" width="50%" height="50%">
 </div>
 <br>
 
