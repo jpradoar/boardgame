@@ -49,17 +49,6 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 </div>	
 <br>	
 
-<div align="center">	
-<h3> REFERENCIA DE UNIDADES  </h3> 
-
-|Salud 	     | Identificador |
-|:---	     |---:	     |
-|Resistencia |Movimiento     |	
-	
-<img src="unidad-ref.png"> 
-
-
-
 <h3 align="center"> EJÉRCITOS  </h3> 
 <br>
 
