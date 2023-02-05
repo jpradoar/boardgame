@@ -29,7 +29,6 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 • Una regla, o similar, para calcular las distancias de movimiento (13cm) y disparo ( movimiento + 11cm )<br>
 • Una superficie plana para jugar de 90x60cm funciona bien. (Incluso lo jugamos en la mesa del bar 🍺).<br>
 • Terrenos como bosques, rocas, edificios y/o ciudades son opcionales, pero hacen al juego mucho más divertido! (puede ser cartulina, cajitas de carton, fieltro, dibujados en papel y hasta <b>dibujado con Tiza en el suelo. Y créeme que este último fue un éxito!!</b>).<br>
-• Los terrenos como bosques o pantanos son aproximadamente entre 3cm a 5cm. <br>
 • Marcadores de puntos de control 🚩 (puede ser cualquier cosa. Hemos usado hasta pequeñas monedas).<br>
 <br>
 
@@ -78,7 +77,6 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 • Áreas de bosques, arroyos, lagos, ciudades, etc. constituyen “Terreno Difícil” que ralentiza el movimiento. <br>
 • Además, terrenos como bosques y torres pueden proporcionar algo de cobertura de los efectos del disparo. <br>
 • Define con tu oponente antes del juego qué terreno cuenta como terreno accidentado y/o cubierta. <br>
-• Los puentes que atraviesan ríos y/o arroyos no cuentan como terreno difícil. <br>
 <br>
 
 <h3 align="center"> MECÁNICA DE JUEGO Y RONDAS </h3>
@@ -284,7 +282,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 
 <h3 align="center"> UNIDADES ESPECIALES </h3>
 <br><b>• Minguin:</b> Esta unidad permite curar 1 punto de salud a una unidad aliada y hasta 2 puntos de heridas. El Minguin puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
-<br>• Para curar una unidad, debe estar en contacto (CC).
+<br>• Para curar una unidad, debe estar en contacto (CC) o menos de 3cm.
 <br>• La unidad a curar no puede estar en rango de ataque enemigo. 
 <br>
 <br>
