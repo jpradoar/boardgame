@@ -311,11 +311,9 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 |:---|:---:|
 |Controlar objetivo. 											|🥉 (1PV)|
 |Tener al menos una unidad en la zona del enemigo 							|🥉 (1PV)|
-|Destruir por lo menos 1 enemigos a distancia en una ronda						|🥉 (1PV)|
-|Destruir por lo menos 1 enemigos a CC 	en una ronda							|🥉 (1PV)|
 |Destruir por lo menos 3 enemigos a distancia en una ronda						|🥈 (2PV)|
 |Destruir por lo menos 3 enemigos a CC 	en una ronda							|🥈 (2PV)|
-|Tener al menos 3 unidades en la zona del enemigo 							|🥈 (3PV)|
+|Destruir todas las unidades del mismo tipo del enemigos						|🥈 (3PV)|
 |Controlar un objetivo antes que tu oponente y mantenlo hasta el fin del juego 				|🥈 (3PV)|
 |Destruir por lo menos 6 enemigos a CC 									|🥇 (5PV)|
 |Destruir por lo menos 6 enemigos a distancia 								|🥇 (5PV)|
