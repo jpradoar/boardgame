@@ -52,12 +52,12 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>
 
 	
-Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para que sea mas divertido usamos algunas letras, nombres e imagenes. (Este punto es completamente ilustrativo y no cumple ninguna funcion en el juego) 
-|**Identificador** 	| **Nombre** 	| **Imagen** 	|**Identificador** 	| **Nombre** 	| **Imagen** 	|
-|:---:			|:---:		|:---:		|:---:			|:---:		|:---:		|
-|  A 			|Alpha 		| <img src="char_alpha.png" width="100%" height="100%"> |  M 			|Minguin 	|<img src="char_minguin.png" width="100%" height="100%"> |
-|  B 			|Baramon 	| <img src="char_baramon.png" width="100%" height="100%"> |  T 			|Thanary 	|<img src="char_thanary.png" width="100%" height="100%"> |
-|  E 			|Eco   		| <img src="char_eco.png" width="100%" height="100%"> |  D 			|Domucor 	| <img src="char_domucor.png" width="100%" height="100%"> |
+Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para que sea mas divertido usamos algunas letras y nombres. (Este punto es completamente ilustrativo y no cumple ninguna funcion en el juego) 
+|**Identificador** 	| **Nombre** 	| **Identificador** 	| **Nombre** 	|
+|:---:			|:---:		|:---:			|:---:		|
+|  A 			|Alpha 		|  M 			|Minguin 	|
+|  B 			|Baramon 	|  T 			|Thanary 	|
+|  E 			|Eco   		|  D 			|Domucor 	|
 
 <a href="easy-units.pdf"> Unidades simples (PDF)</a> <a href="tokens-de-salud.pdf"> Tokens de salud (PDF) </a>
 
