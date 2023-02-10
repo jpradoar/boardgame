@@ -53,13 +53,19 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 
 	
 Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para que sea mas divertido usamos algunas letras y nombres. (Este punto es completamente ilustrativo y no cumple ninguna funcion en el juego) 
-|**Identificador** 	| **Nombre** 	| **Identificador** 	| **Nombre** 	|
-|:---:			|:---:		|:---:			|:---:		|
-|  A 			|Alpha 		|  M 			|Minguin 	|
-|  B 			|Baramon 	|  T 			|Thanary 	|
-|  E 			|Eco   		|  D 			|Domucor 	|
+<div align="center">
 
-<a href="easy-units.pdf"> Unidades simples (PDF)</a> <a href="tokens-de-salud.pdf"> Tokens de salud (PDF) </a>
+|**Identificador** 	| **Nombre** 	|
+|:---:			|:---:		|
+|  A 			|Alpha 		|
+|  B 			|Baramon 	|  
+|  E 			|Eco   		|  
+|  M 			|Minguin 	|
+|  T 			|Thanary 	|
+|  D 			|Domucor 	|
+
+<a href="easy-units.pdf"> Unidades simples (PDF)</a> <a href="tokens-de-salud.pdf"> Tokens de salud (PDF) </a></div>
+
 
 <br><br>
 	
