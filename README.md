@@ -113,7 +113,7 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 |Correr	 		|Puede move el máximo de su movimiento. No puede disparar. 												| 
 |Reorganizar 	|Mueve hasta 180° sobre su eje. 																		|
 |Alerta			|Puedes realizar dos de las siguientes acciones Mover, Reorganizar, Atacar.	(cualquier disparo acierta con 5 o 6) | 
-|Huida			|Se desplaza la mitad de su movimiento en cualquier sentido.											|
+|Huida			|Se desplaza la mitad de su movimiento en cualquier dirección.											|
 
 </div><br>
 
