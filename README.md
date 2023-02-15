@@ -74,7 +74,7 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 • Ambos jugadores arman el terreno y colocan los puntos de control. Puede ser aleatoriamente o bien usar un escenario pre-definido. <br>
 • Una vez terminado de armar el terreno, juegan (1D6) y el ganador decide si rotan de posición de terreno o se quedan donde están. <br>
 • Los ejércitos deben desplegarse mínimo a 30 o 40 cm entre sí y a 3 cm del borde del tablero.  (aprox) <br>
-• Al colocar por primera vez las unidades en la mesa, éstas deben estar boca abajo, luego se voltean una vez que inicie la primera partida del juego. (tu contrincante no ve que tipo de unidad está en cada posición hasta que inicia el juego). Esta regla es opcional, pero hace que sea mas divertido.<br>
+• Al colocar por primera vez las unidades en la mesa, éstas deben estar boca abajo, luego se iran volteando a medida que se muevan por primera vez en la primera partida del juego. (tu contrincante no ve que tipo de unidad está en cada posición hasta que inicia el juego). Esta regla es opcional, pero hace que sea mas divertido.<br>
 • Reparte 4 cartas de habilidades especiales a cada jugador.<br>
 <div align="center"><img src="map-01.png"></div>
 <br>
@@ -83,17 +83,6 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 • Áreas de bosques, arroyos, lagos, ciudades, etc. constituyen “Terreno Difícil” que ralentiza el movimiento. <br>
 • Además, terrenos como bosques y torres pueden proporcionar algo de cobertura de los efectos del disparo. <br>
 • Define con tu oponente antes del juego qué terreno cuenta como terreno accidentado y/o cubierta. <br>
-<br>
-
-<h3 align="center"> MECÁNICA DE JUEGO Y RONDAS </h3>
-
-<b>1.</b> Determinar la iniciativa (Juega 2D6, quien saque el número más alto inicia)<br>
-<b>2.</b> El número más alto de iniciativa también será la cantidad de <b>Puntos de Acción (PA) para ambos.</b> (la cantidad de unidades que podras activar/utilizar en esa ronda)<br>
-<b>3.</b> Inicia el jugador con iniciativa. <br>
-<b>4.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón. ( Activa una unidad el jugador A, luego el jugador B activa otra, y así).<br>
-<b>5.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )<br>
-• <b>Los objetivos, como ganar el juego y el flujo completo está al final.</b><br>
-<div align="center"><img src="flujo-01.png"></div>
 <br>
 
 <h3 align="center"> PUNTOS DE ACCIÓN (PA) </h3>
@@ -105,16 +94,43 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 
 <h3 align="center"> ACTIVAR UNIDADES  </h3>
 <div align="center">
+	
+|Activación (acción principal)  |Reacción (acción secundaria)	 		|
+|:---:			     |:---:		 				|
+|Alerta			     |Reorganizar ó Contraatacar|
+|Atacar			     |Contraatacar 				|
+|Mover + Atacar	     |Reorganiza	 			|
+|Correr (Mover+Mover)|Huida		 				|
+|Habilidad especial  |-  		 				|
 
-|Carta (Activación)  |	Descripción																	|Reacción	 |Descripción									|	 	
-|:---:			     |:--- 																			|:---:		 |:--- 											|
-|Atacar			     |No mueve, puede disparar 														|Contraataca |Dispara con dificultad +1 (acierta con 5 o 6) | 
-|Mover + Atacar	     |Mueve la mitad de su movimiento máximo y dispara al finalizar el movimiento.  |Reorganiza	 |Mueve hasta 180° sobre su eje					|
-|Correr (Mover+Mover)|No dispara, puede move el máximo de su movimiento. 							|Huida		 |Mueve 3cm en cualquier sentido 				|
-|Habilidad especial  |Juega una carta de habilidad especial. 										| -  		 |												|											|
+<br>
 
+|Acción 		| Descripción 	|
+|:---:			|:--- 			|
+|Atacar 		|No mueves pero puede disparar. Si no somos capaces de atacar, la unidad quedará lista apra reaccionar. |
+|Contraatacar 	|Dispara con dificultad +1 (acierta con 5 o 6) 															|
+|Mover	  		|Mueve la mitad de su movimiento máximo y puedes, o no, Disparar 					 					|
+|Correr	 		|Puede move el máximo de su movimiento. No puede disparar. 												| 
+|Reorganizar 	|Mueve hasta 180° sobre su eje. 																		|
+|Alerta			|Puedes realizar dos de las siguientes acciones Mover, Reorganizar, Atacar.	(cualquier disparo acierta con 5 o 6) | 
+|Huida			|Se desplaza la mitad de su movimiento en cualquier sentido.											|
 
 </div><br>
+
+<h3 align="center"> MECÁNICA DE JUEGO Y RONDAS </h3>
+
+<b>1.</b> Determinar la iniciativa (Juega 2D6, quien saque el número más alto inicia. En caso de empate vuelven a tirar dados)
+<br><b>2.</b> El número más alto de iniciativa también será la cantidad de <b>Puntos de Acción (PA) para ambos.</b> (la cantidad de unidades que podras activar/utilizar en esa ronda)
+<br><b>3.</b> Inicia el jugador con mayor iniciativa. 
+<br><b>4.</b> Todos los jugadores colocanuna boca abajo una carta de activación al lado de las unidades que desean utilizar. 
+<br><b>5a.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón. ( Activa una unidad el jugador A, luego el jugador B activa otra, y así).
+<br><b>5b.</b> Para "Activar" una unidad basta con dar vuelta la carta de activación y ejecutar la acción que dice en ella. Una vez colocada la carta de activacion no se puede cambiar por otra.
+<br><b>5c.</b> Realizar una acción de "Reacción"  <b>ver REACCIÓN</b>
+<br><b>6.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )
+<br>• <b>Los objetivos, como ganar el juego y el flujo completo está al final.</b><br>
+
+<div align="center"><img src="flujo-01.png"></div>
+<br>
 
 <h3 align="center"> ZONAS DE CONQUISTA </h3>
 
@@ -186,11 +202,13 @@ Si el resultado es un éxito la unidad recibe una herida.
 
 <h3 align="center"> REACCIÓN </h3>
 <br>
-<br>• La reacción es una acciones en la cual no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esta en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar.
+<br>• La <b>reacción</b> es un accion en la cual no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esta en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar.
 <br>• <b>Ataque de reacción</b>: Para realizar un ataque de reacción juegas 🎲 (1D6) y si sale 5 ó 6 aciertas el disparo. Este daño no se puede evadir ni esquivar ya que la unidad está en plena acción. 
 <br>
 <br>En este ejemplo la unidad azul(E) esta en su turno y en pleno movimiento del punto (A) al punto (B), pero también esta en completo rango de visión y ataque de la unidad roja(T). Entonces mientras la unidad azul(E) esta corriendo hacia su nueva posición la unidad roja(T) puede reaccionar atacandola.
 <div align="center"><img src="reaccion-ref.jpeg" width="50%" height="50%"></div>
+<br>CAMBIO DE PLANES!!!   (en vez de usar tu acción principal usa tu reacción)
+<br>• La reacción también puede ser utilizada como un "<b>cambio de planes repentino!!!</b>". Es decir que si tu accion principal era correr hacia un punto X, y tu oponente realiza primero que tú algún movimiento potencialmente peligroso puedes utilizar tu "Reacción" como acción principal y hacer un "cambio de planes" y huir hacia otro punto.
 <br>
 
 
