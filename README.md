@@ -106,13 +106,13 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 <h3 align="center"> ACTIVAR UNIDADES  </h3>
 <div align="center">
 
-|Acción			|	Descripción	|
-|:---:			|:--- 			|
-|Atacar			|No mueve, pero puede disparar |
-|Atacar	+ Mover 	|Dispara y puede mover la mitad de su movimiento máximo. |
-|Mover + Atacar		|Camina la mitad de su movimiento máximo y dispara al finalizar el movimiento. |
-|Correr (Mover+Mover) 	|No dispara, puede correr el máximo de su movimiento. |
-|Habilidad especial 	|Juega una carta de habilidad especial. |
+|Carta (Activación)  |	Descripción																	|Reacción	 |Descripción									|	 	
+|:---:			     |:--- 																			|:---:		 |:--- 											|
+|Atacar			     |No mueve, puede disparar 														|Contraataca |Dispara con dificultad +1 (acierta con 5 o 6) | 
+|Mover + Atacar	     |Mueve la mitad de su movimiento máximo y dispara al finalizar el movimiento.  |Reorganiza	 |Mueve hasta 180° sobre su eje					|
+|Correr (Mover+Mover)|No dispara, puede move el máximo de su movimiento. 							|Huida		 |Mueve 3cm en cualquier sentido 				|
+|Habilidad especial  |Juega una carta de habilidad especial. 										| -  		 |												|											|
+
 
 </div><br>
 
@@ -135,9 +135,9 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 <br>
 <b>• Terreno de cobertura:</b> Las unidades que disparan a los enemigos con la o las miniaturas a cubierto obtienen -1 en las tiradas para impactar.
 <br>
-<b>• Terreno Difícil:</b> Las unidades que se mueven a través de terrenos difíciles se mueven a la mitad de su movimiento normal.
+<b>• Terreno Difícil:</b> Las unidades que transiten a través de terrenos difíciles se mueven a la mitad de su movimiento normal.
 <br>
-<b>• Terreno peligroso:</b> Las miniaturas que se mueven por terreno peligroso, mueven igual que en terreno difícil, pero deben tirar 1D6. 
+<b>• Terreno peligroso:</b> Las miniaturas que transiten por terreno peligroso, mueven igual que en terreno difícil, pero deben tirar 1D6. 
 Si el resultado es un éxito la unidad recibe una herida.
 <br>• <b>Regla de movimiento</b>: Puedes usar la clasica "Cinta métrica", en mi caso, arme una regla con las medidas de movimiento para que sea más practico.
 <br><br>
@@ -184,10 +184,9 @@ Si el resultado es un éxito la unidad recibe una herida.
 
 <br>
 
-<h3 align="center"> PUNTOS DE REACCIÓN </h3>
+<h3 align="center"> REACCIÓN </h3>
 <br>
-<br>• Los puntos de reacción son acciones en las cuales no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esta en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar.
-<br>• Solo tienes 1 punto de reacción por ronda.  
+<br>• La reacción es una acciones en la cual no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esta en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar.
 <br>• <b>Ataque de reacción</b>: Para realizar un ataque de reacción juegas 🎲 (1D6) y si sale 5 ó 6 aciertas el disparo. Este daño no se puede evadir ni esquivar ya que la unidad está en plena acción. 
 <br>
 <br>En este ejemplo la unidad azul(E) esta en su turno y en pleno movimiento del punto (A) al punto (B), pero también esta en completo rango de visión y ataque de la unidad roja(T). Entonces mientras la unidad azul(E) esta corriendo hacia su nueva posición la unidad roja(T) puede reaccionar atacandola.
