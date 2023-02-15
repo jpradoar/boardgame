@@ -101,7 +101,7 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 |Atacar			     |Contraatacar 				|
 |Mover + Atacar	     |Reorganiza	 			|
 |Correr (Mover+Mover)|Huida		 				|
-|Habilidad especial  |-  		 				|
+
 
 <br>
 
@@ -112,7 +112,7 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 |Mover	  		|Mueve la mitad de su movimiento máximo y puedes, o no, Disparar 					 					|
 |Correr	 		|Puede move el máximo de su movimiento. No puede disparar. 												| 
 |Reorganizar 	|Mueve hasta 180° sobre su eje. 																		|
-|Alerta			|Puedes realizar dos de las siguientes acciones Mover, Reorganizar, Atacar.	(cualquier disparo acierta con 5 o 6) | 
+|Alerta			|Se queda quiero, pero puedes reaccionar usando una de las dos acciones: Reorganizar ó Contraatacar (con dificultad +1. Acierta con 5 o 6).| 
 |Huida			|Se desplaza la mitad de su movimiento en cualquier dirección.											|
 
 </div><br>
@@ -124,8 +124,8 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 <br><b>3.</b> Inicia el jugador con mayor iniciativa. 
 <br><b>4.</b> Todos los jugadores colocanuna boca abajo una carta de activación al lado de las unidades que desean utilizar. 
 <br><b>5a.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón. ( Activa una unidad el jugador A, luego el jugador B activa otra, y así).
-<br><b>5b.</b> Para "Activar" una unidad basta con dar vuelta la carta de activación y ejecutar la acción que dice en ella. Una vez colocada la carta de activacion no se puede cambiar por otra.
-<br><b>5c.</b> Realizar una acción de "Reacción"  <b>ver REACCIÓN</b>
+<br><b>5b.</b> Para "Activar" una unidad basta con dar vuelta la carta de activación y ejecutar la acción principal que dice en ella. Una vez colocada la carta de activacion no se puede cambiar por otra.
+<br><b>5c.</b> Realizar una "Reacción"  <b>ver REACCIÓN</b>
 <br><b>6.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )
 <br>• <b>Los objetivos, como ganar el juego y el flujo completo está al final.</b><br>
 
@@ -202,15 +202,18 @@ Si el resultado es un éxito la unidad recibe una herida.
 
 <h3 align="center"> REACCIÓN </h3>
 <br>
-<br>• La <b>reacción</b> es un accion en la cual no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esta en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar.
-<br>• <b>Ataque de reacción</b>: Para realizar un ataque de reacción juegas 🎲 (1D6) y si sale 5 ó 6 aciertas el disparo. Este daño no se puede evadir ni esquivar ya que la unidad está en plena acción. 
+<br>• La <b>reacción</b> te permite realizar un cambio de planes ante un evento del enemigo. Siemrpe que sea tu turno de juego. La reacción puede ser utilizada como un "<b>cambio de planes repentino!!!</b>". Es decir, si pensabas utilizar tu accion principal, "Correr (Mover+Mover)", y tu oponente realiza primero que tú algún movimiento potencialmente peligroso, puedes utilizar tu "Reacción" como acción principal, hacer un "cambio de planes" y "Huir" hacia otro punto. juegas 🎲 (1D6) si sale 4,5 ó 6 puedes realizar el cambio de planes. 
+
 <br>
-<br>En este ejemplo la unidad azul(E) esta en su turno y en pleno movimiento del punto (A) al punto (B), pero también esta en completo rango de visión y ataque de la unidad roja(T). Entonces mientras la unidad azul(E) esta corriendo hacia su nueva posición la unidad roja(T) puede reaccionar atacandola.
-<div align="center"><img src="reaccion-ref.jpeg" width="50%" height="50%"></div>
-<br>CAMBIO DE PLANES!!!   (en vez de usar tu acción principal usa tu reacción)
-<br>• La reacción también puede ser utilizada como un "<b>cambio de planes repentino!!!</b>". Es decir que si tu accion principal era correr hacia un punto X, y tu oponente realiza primero que tú algún movimiento potencialmente peligroso puedes utilizar tu "Reacción" como acción principal y hacer un "cambio de planes" y huir hacia otro punto.
+<div align="center"><img src="reaccion-secundaria.jpeg" width="50%" height="50%"></div>
 <br>
 
+<br>• <b>Ataque de reacción (distinto de contraatacar)</b>: Es un accion en la cual no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esta en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar. Para realizar un ataque de reacción juegas 🎲 (1D6) y si sale 5 ó 6 aciertas el disparo. Este daño no se puede evadir ni esquivar ya que la unidad está en plena acción. 
+
+<div align="center"><img src="reaccion-ref.jpeg" width="50%" height="50%"></div>
+<br>En este ejemplo la unidad azul(E) esta en su turno y en pleno movimiento del punto (A) al punto (B), pero también esta en completo rango de visión y ataque de la unidad roja(T). Entonces mientras la unidad azul(E) esta corriendo hacia su nueva posición la unidad roja(T) puede hacer un "Ataque de reacción".
+
+<br>
 
 <h3 align="center"> HERIDAS </h3>
 <br>
