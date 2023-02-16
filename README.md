@@ -45,8 +45,14 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>	
 <div align="center">
 <img src="tokens-mini.jpeg" width="500" height="310"><br>
+<br>
+<img src="token-ref.png" width="50%" height="50%"><br>
+<a href="all-tokens.pdf"> Tokens de salud (PDF) </a>
 </div>	
 <br>	
+
+
+
 
 <h3 align="center"> EJÉRCITOS  </h3> 
 <br>
@@ -64,7 +70,7 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 |  T 			|Thanary 	|
 |  D 			|Domucor 	|
 
-<a href="easy-units.pdf"> Unidades simples (PDF)</a> <a href="tokens-de-salud.pdf"> Tokens de salud (PDF) </a></div>
+<a href="easy-units.pdf"> Unidades simples (PDF)</a> </div>
 
 
 <br><br>
