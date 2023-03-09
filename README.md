@@ -189,6 +189,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 <h3 align="center">ATAQUE A DISTANCIA </h3>
 <br>
 • Las unidades atacan a una distancia de 24cm (regla de movimiento 13cm + regla de ataque 11cm).<br>
+• Si juegas con tablero de hexágono la distancia de ataque son 10 hexagonos<br>
 • Las unidades atacan con (2D6) en combates a distancia.<br>
 • Los aciertos son:  4, 5 o 6 <br>
 • Cada fallo crítico (1) provoca un punto de herida.<br>
@@ -200,6 +201,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 <br>
  
 • Dos unidades a menos de (3cm), se enfrentarán cuerpo a cuerpo (CC). <br>
+• Si juegas con tablero de hexágono la distancia de ataque son 1 hexagono<br>
 • Las unidades atacan con (3D6) en cuerpo a cuerpo (CC).<br>
 • Los aciertos son:  4, 5 o 6 <br>
 • Cada fallo crítico (1) provoca un punto de herida.<br>
