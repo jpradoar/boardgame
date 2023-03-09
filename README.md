@@ -108,6 +108,7 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 |Mover + Atacar	     |Reorganiza	 			|
 |Correr (Mover+Mover)|Huida		 				|
 
+<a href="Rcartas-activacion.pdf">CARTAS ACTIVAR UNIDADES (PDF)</a> 
 
 <br>
 
@@ -390,6 +391,9 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 <img src="example-card.png" width="280" height="370"><br>
 <a href="RPG-cards.pdf">( CARTAS PDF)</a> 
 </div>
+
+
+
 	
 <br>• Todas las cartas deben descartarse al mazo una vez utilizadas. 
 <br>• Cuando juegues con habilidades especiales mezcla el mazo de cartas especiales y reparte 4 a cada jugador. Las cartas una vez usadas vuelven al mazo. Las restantes servirán para cuando una unidad ascienda de rango.
