@@ -108,7 +108,7 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 |Mover + Atacar	     |Reorganiza	 			|
 |Correr (Mover+Mover)|Huida		 				|
 
-<a href="Rcartas-activacion.pdf">CARTAS ACTIVAR UNIDADES (PDF)</a> 
+<a href="cartas-activacion.pdf">CARTAS ACTIVAR UNIDADES (PDF)</a> 
 
 <br>
 
