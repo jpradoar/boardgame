@@ -254,6 +254,22 @@ Si el resultado es un éxito la unidad recibe una herida.
 </div>
 <br>
 
+
+
+<h3 align="center"> USO DE TOKENS Y UNIDADES </h3>
+
+<br>
+• Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original.
+<br>
+<div align="center">
+<img src="uso-de-tokens-salud.png"> <img src="token.png" width="250" height="170">
+<br>
+<img src="daños-ref.jpeg"> 
+</div>
+<br>
+
+
+
 <h3 align="center"> TABLA DE REFERENCIA  </h3>
 
 
@@ -389,17 +405,6 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 
 
 
-<h3 align="center"> USO DE TOKENS Y UNIDADES </h3>
-
-<br>
-• Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original.
-<br>
-<div align="center">
-<img src="uso-de-tokens-salud.png"> <img src="token.png" width="250" height="170">
-<br>
-<img src="daños-ref.jpeg"> 
-</div>
-<br>
 
 
 
