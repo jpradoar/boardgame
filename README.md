@@ -10,9 +10,9 @@
 
 <h3 align="center"> EL JUEGO </h3>
 <b>EDC</b>: Es un juego de mesa diseñado para ser desarrollado en el tiempo que demora esperar y beber un café (30min).<br> Con un sistema de juego simple, rápido y a la vez divertido, supone una pequeña batalla (escaramuza) entre dos bandos de criaturas sedientas de dominio territorial. 
-<p>Las unidades no tienen estereotipo, lo cual hace al juego bastante agnostico, de heco, si quieres simular una situación histórica o un mundo fantastico futurista puedes hacerlo. Las unidades tienen sus propias características sobre ellas, lo que ayuda a simplificar los movimientos y tiradas de dados. <br>
+<p>Las unidades no tienen estereotipo, lo cual hace al juego bastante agnostico, de hecho, si quieres simular una situación histórica o un mundo fantastico futurista puedes hacerlo. Las unidades tienen sus propias características sobre ellas, lo que ayuda a simplificar los movimientos y tiradas de dados. <br>
 Los tamaños rondan los 2 cm la unidad, para que puedas transportarlo en una pequeña bolsa a donde desees. Puedes jugar 1vs1,  2vs2 o más. (hemos jugado 2v2 y resulta muy divertido!). <br>
-El objetivo primordial es que cualquera pueda sentarse, jugar y compartir un buen momento. 🫂 <br>
+El objetivo primordial es que cualquiera pueda sentarse, jugar y compartir un buen momento. 🫂 <br>
 <p>
 	
 Completamente <b>Open-Source y PNP (print & play)</b>. Imprime 🖨️ Arma 🛠️ Juega 🎲. 
