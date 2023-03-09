@@ -422,6 +422,6 @@ Si prefieres evitar las reglas de medidas, puedes jugar con hexágonos de 2cm
 <br>
 <img src="TABLERO-COMPLETO.jpeg"  width="100%" height="100%">
 <br>
-<img src="TABLERO-COMPLETO.jpeg"  width="100%" height="100%">
+<img src="TABLERO-COMPLETO2.jpeg"  width="100%" height="100%">
 
 
