@@ -416,6 +416,7 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 
 
 
+<h3 align="center"> REEMPLAZAR REGLA POR MAPA DE HEXAGONOS </h3>
 <br>
 Si prefieres evitar las reglas de medidas, puedes jugar con hexágonos de 2cm
 <br>
