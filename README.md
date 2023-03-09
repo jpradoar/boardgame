@@ -111,6 +111,8 @@ Si bien las unidades son solo bloques y tienen sus propias caracteristicas, para
 
 <br>
 
+<h3 align="center"> CARTAS DE ACTIVACIÓN DE UNIDADES  </h3>	
+	
 |Acción 		| Descripción 	|
 |:---:			|:--- 			|
 |Atacar 		|No mueves pero puede disparar. Si no somos capaces de atacar, la unidad quedará lista apra reaccionar. |
