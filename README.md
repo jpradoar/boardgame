@@ -366,7 +366,7 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 
 <br><br><br><hr><br><br>
 
-<h3 align="center">  EN TESTEO</h3>
+<h3 align="center">  EN ETAPA EXPERIMENTAL</h3>
 <br><br>
 <div align="center"><h3> SUBIR DE RANGO  </h3>	</div>
 
