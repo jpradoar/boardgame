@@ -283,57 +283,6 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 <br>• Si bien se calculan 15 unidades, siéntase libre de agregar más o menos unidades. (cuanto mas unidades, mas complejo es, cuanto menos unidades más rápido).
 <br>
 
-<div align="center"><h3> SUBIR DE RANGO  </h3>	</div>
-
-
-<br>• Las unidades pueden subir de rango. Para ello deben destruir algunas unidades enemigas. 
-<br>• Cuando una unidad sube de rango entra al campo de batalla como si fuera una completamente saludable y levanta una carta del mazo de habilidades.  
-	
-<div align="center"> 
-	
-|Unidad	| Unidades enemigas destruidas 	| Acción 		| 
-|:---:	|:---				|:---			|
-|Domucor  | Destruye 1 unidad enemiga     | Levanta una carta  	|
-|Thanary  | Destruye 2 unidades enemigas  | Levanta una carta  	|	
-|Minguin | Destruye 2 unidades enemigas  | Levanta una carta  	|	
-|Eco    | Destruye 3 unidades enemigas  | Levanta una carta  	|
-|Baramon  | Destruye 3 unidades enemigas  | Levanta una carta  	|
-|Alpha  | Destruye 3 unidades enemigas  | Levanta una carta  	|
-	
-</div>
-<br>
-
-<div align="center"><h3> CARTAS DE HABILIDADES ESPECIALES  (beta-test)</h3>
-
-<img src="example-card.png" width="280" height="370"><br>
-<a href="RPG-cards.pdf">( CARTAS PDF)</a> 
-</div>
-	
-<br>• Todas las cartas deben descartarse al mazo una vez utilizadas. 
-<br>• Cuando juegues con habilidades especiales mezcla el mazo de cartas especiales y reparte 4 a cada jugador. Las cartas una vez usadas vuelven al mazo. Las restantes servirán para cuando una unidad ascienda de rango.
-
-<br>
-
-<h3 align="center"> UNIDADES ESPECIALES </h3>
-<br><b>• Minguin:</b> Esta unidad permite curar 1 punto de salud a una unidad aliada y hasta 2 puntos de heridas. El Minguin puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
-<br>• Para curar una unidad, debe estar en contacto (CC) o menos de 3cm.
-<br>• La unidad a curar no puede estar en rango de ataque enemigo. 
-<br>
-<br>
-
-
-
-<h3 align="center"> USO DE TOKENS Y UNIDADES </h3>
-
-<br>
-• Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original.
-<br>
-<div align="center">
-<img src="uso-de-tokens-salud.png"> <img src="token.png" width="250" height="170">
-<br>
-<img src="daños-ref.jpeg"> 
-</div>
-<br>
 
 
 
@@ -388,13 +337,77 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 
 
 
-<br><br><br>
+
+
+
+
+
+
+
+
+<br><br><br><hr><br>
 
 <h3 align="center">  EN TESTEO</h3>
+
+<div align="center"><h3> SUBIR DE RANGO  </h3>	</div>
+
+
+<br>• Las unidades pueden subir de rango. Para ello deben destruir algunas unidades enemigas. 
+<br>• Cuando una unidad sube de rango entra al campo de batalla como si fuera una completamente saludable y levanta una carta del mazo de habilidades.  
+	
+<div align="center"> 
+	
+|Unidad	| Unidades enemigas destruidas 	| Acción 		| 
+|:---:	|:---				|:---			|
+|Domucor  | Destruye 1 unidad enemiga     | Levanta una carta  	|
+|Thanary  | Destruye 2 unidades enemigas  | Levanta una carta  	|	
+|Minguin | Destruye 2 unidades enemigas  | Levanta una carta  	|	
+|Eco    | Destruye 3 unidades enemigas  | Levanta una carta  	|
+|Baramon  | Destruye 3 unidades enemigas  | Levanta una carta  	|
+|Alpha  | Destruye 3 unidades enemigas  | Levanta una carta  	|
+	
+</div>
+<br>
+
+<div align="center"><h3> CARTAS DE HABILIDADES ESPECIALES  (beta-test)</h3>
+
+<img src="example-card.png" width="280" height="370"><br>
+<a href="RPG-cards.pdf">( CARTAS PDF)</a> 
+</div>
+	
+<br>• Todas las cartas deben descartarse al mazo una vez utilizadas. 
+<br>• Cuando juegues con habilidades especiales mezcla el mazo de cartas especiales y reparte 4 a cada jugador. Las cartas una vez usadas vuelven al mazo. Las restantes servirán para cuando una unidad ascienda de rango.
+
+<br>
+
+<h3 align="center"> UNIDADES ESPECIALES </h3>
+<br><b>• Minguin:</b> Esta unidad permite curar 1 punto de salud a una unidad aliada y hasta 2 puntos de heridas. El Minguin puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
+<br>• Para curar una unidad, debe estar en contacto (CC) o menos de 3cm.
+<br>• La unidad a curar no puede estar en rango de ataque enemigo. 
+<br>
+<br>
+
+
+
+<h3 align="center"> USO DE TOKENS Y UNIDADES </h3>
+
+<br>
+• Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original.
+<br>
+<div align="center">
+<img src="uso-de-tokens-salud.png"> <img src="token.png" width="250" height="170">
+<br>
+<img src="daños-ref.jpeg"> 
+</div>
+<br>
+
+
+
+
+
 <br>
 Si prefieres evitar las reglas de medidas, puedes jugar con hexágonos de 2cm
 <br>
-
 <img src="TABLERO-COMPLETO.jpeg"  width="100%" height="100%">
 <br>
 <img src="TABLERO-COMPLETO.jpeg"  width="100%" height="100%">
