@@ -303,7 +303,7 @@ Si bien las unidades traen los puntos de referencia, aqui estan por si no quiere
 </div>
 <br>
 
-<div align="center"><h3> CARTAS DE HABILIDADES ESPECIALES </h3>
+<div align="center"><h3> CARTAS DE HABILIDADES ESPECIALES  (beta-test)</h3>
 
 <img src="example-card.png" width="280" height="370"><br>
 <a href="RPG-cards.pdf">( CARTAS PDF)</a> 
@@ -383,3 +383,20 @@ Siéntete libre de ajustar estos valores para representar ejércitos más fuerte
 <div align="center">
 <img src="EDC-LOGICA-FUNCIONAL.png"  width="100%" height="100%">
 </div>
+
+
+
+
+
+<br><br><br>
+
+<h3 align="center">  EN TESTEO</h3>
+<br>
+Si prefieres evitar las reglas de medidas, puedes jugar con hexágonos de 2cm
+<br>
+
+<img src="TABLERO-COMPLETO.jpeg"  width="100%" height="100%">
+<br>
+<img src="TABLERO-COMPLETO.jpeg"  width="100%" height="100%">
+
+
