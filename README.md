@@ -1,5 +1,5 @@
 # ESCARAMUZAS DE CAFÉ 
-#### E.D.C. Fantasy Wargame - v0.2.0
+#### E.D.C. Fantasy Wargame - v0.2.1
 
 
 <br>
@@ -186,54 +186,37 @@ Si el resultado es un éxito la unidad recibe una herida.
 | 5 - 6 |🩸 Gravemente herido| 2 |
 
 </div>
-<br>
+<br><br>
 
-<h3 align="center"> EVADIR </h3>
 
-<b>Todos los impactos se anotan con una tirada de 4 o más. Excepto que existan modificadores.</b>
-<br>
-• Cada golpe acertado se aplica inmediatamente.<br>
-• Las unidades poseen su numero de dados de defensa o evadir.<br>
-• Si el atacante acierta, el enemigo puede “EVADIR” sacando un valor similar o mayor. Para ello debe jugar la cantidad de dados que indica su unidad. Los éxitos no se pueden evadir.<br>
-<br>
 
-<div align="center">	
-<img src="ataque-02-ref.jpeg" width="50%" height="50%">
-</div>
+<h3 align="center"> USO DE TOKENS Y UNIDADES </h3></div>
+
+<br>
+• Los tokens (contadores giratorios de salud) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original. 
+<br><br>
+<div align="center"><img src="uso-de-tokens-salud-v2.png" width="50%" height="50%"></div>
+
 <br>
 
 
 
-<h3 align="center"> USO DE TOKENS Y UNIDADES </h3>
-
-<br>
-• Los tokens (contadores giratorios) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original.
-<br>
-<div align="center">
-<img src="uso-de-tokens-salud.png"> <img src="token.png" width="250" height="170">
-<br>
-<img src="daños-ref.jpeg"> 
-</div>
-<br>
+<h3 align="center">  PUNTOS DE VICTORIA </h3></div>
 
 
-
-<h3 align="center">  PUNTOS DE VICTORIA </h3>
-
-<div align="center">
 
 |Objetivo | puntos |
 |:---|:---:|
-|Destruir una unidad enemiga									                        |🥉(1PV)|
+|Destruir una unidad enemiga									|🥉(1PV)|
 |Tener al menos una unidad en la zona de inicio del enemigo 					|🥉(1PV)|
-|Controlar objetivo. 										                              |🥈(2PV)|
-|Controlar la base enemiga									                          |🎖️(5PV)|
+|Controlar objetivo. 										|🥈(2PV)|
+|Controlar la base enemiga									|🎖️(5PV)|
   
 
 <h3 align="center">  GANAR EL JUEGO  </h3>
 
-<b>A) Dominar al enemigo: El primer jugador que quede con 3 unidades, o menos, será derrotado. 
-<br><b>B) Dominar el campo de batalla: Al final de cada ronda los jugadores chequean si pueden completar al menos un objetivo. Si lo logran, anotan los puntos.  Al final de 12 rondas quien sume más puntos gana la partida. 
+<b>A) Dominar al enemigo:</b> El primer jugador que quede con 3 unidades, o menos, será derrotado. 
+<br><b>B) Dominar el campo de batalla:</b> Al final de cada ronda los jugadores chequean si pueden completar al menos un objetivo. Si lo logran, anotan los puntos.  Al final de 12 rondas quien sume más puntos gana la partida. 
 <br><br>
 
   
