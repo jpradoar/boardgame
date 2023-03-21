@@ -56,20 +56,10 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>
 <div align="center">
 
-|**ID**	|**Unidad** |**Cant**	|**Puntos**|	**Max**|	**Equipo**|	**Alcance**|	**Ataque**|	**Mov**|	**Detalle**|
-|:---:  |:---:      |:---:    |:---:     |:---:    |:---:       |:---:       |:---:       |:---:    |:---:      |
-|R	|Recluta	      | 2	|15	  |4	|Rifle	      |10	|1	|6	|Debe jugar 1D6 y sacar 4,5,6 para activar. |
-|F	|Fusilero	      | 1	|10	  |2	|Ametralladora|10	|3	|6	|     |
-|V	|Veteranos      | 2	|40	  |4	|Rifle        |10	|1	|6	|Si en la tirada sale un fallo en ataque, puede volver a jugar ese dado. (una vez por unidad)|
-|E	|Especialistas  | 1	|50	  |2	|Rifle        |10	|1	|6	|Puede utilizar lanzallamas, sniper, Ametralladora|
-|S	|Francotiradores| 1 |10	  |3	|Sniper       |16	|1	|6	|Si esta apostado, suma 1 a la dificultad de recibir daño (acierta con 5 o 6)|
-|AP	|Armas pesadas  | 1	|20	  |3	|Mortero      |18	|1D6|6	|Puede disparar a enemigos que no puede ver mientras estén en la línea de visión de unidades amigas.|
-|AT	|Artilleria     |	1	|90   |2	|Cañón        |18	|2D6|6	|Puede disparar a enemigos que no puede ver, siempre y cuando estén en la línea de visión de otras unidades amigas.|
-|T	|Tanque         |	1	|150  |2	|Cañón        |18	|2D6|12|	ARMADURA: Tira +3 dados para bloquear golpes|
-|J	|Jeep           |	1	|40   |2	|Transporte   | -	| -	|12	|Transporte hasta 5 unidades. Si una unidad está dentro cuando se destruye, todas las miniaturas se colocan a 3” y la unidad recibe 1D6 impactos automáticos. ARMADURA: Tira +1 dado para bloquear impactos|
-|LL	|Lanzallamas    |	1	|30   |1	|Equipable    |6	|2D6|	-	|La unidad no puede correr con lanzallamas|
-|G4	|Granada        |	1	|20   |1	|Equipable    |6	|1D6|	- |	-  |
-|C4	|C4             |	1	|20   |1	|Equipable    |6	|1D6|	- |	-  |
+
+<div align="center">	
+<img src="ref-image.png">
+</div>
  
 <a href="unidades-para-imprimir_v2.1.pdf"> Unidades simples (PDF)</a> </div>
 
@@ -137,9 +127,6 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>• Colocar 3, 5 o 7 objetivos, cada uno fuera de las zonas de despliegue y a más de 14 cm de distancia entre sí. Al final de cada ronda, si una unidad está a 3 cm o menos de una de ellas, entonces se captura y pertenece a quien lo conquiste, a menos que el enemigo elimine todas las unidades opuestas y recapture la zona. (recuerda colocar un token o algo para marcar de quien es la zona y anota el punto.)
 <br>• Si las unidades de ambos bandos están disputando una misma zona de conquista, pueden marcarla como neutral, o bien luchar a morir por esa zona.
 <br>
-<div align="center">	
-<img src="captura-ref.jpeg">
-</div>
 <br>
 
 
@@ -155,10 +142,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <b>• Terreno peligroso:</b> Las miniaturas que transiten por terreno peligroso, mueven igual que en terreno difícil, pero deben tirar 1D6. 
 Si el resultado es un éxito la unidad recibe una herida.
 <br>• <b>Regla de movimiento</b>: Puedes usar la clasica "Cinta métrica", en mi caso, arme una regla con las medidas de movimiento para que sea más practico.
-<br><br>
-<div align="center">	
-<img src="movimientos-all-ref.jpeg" width="40%" height="40%">
-</div>
+<br>
 <br>
 
 <h3 align="center"> TIPOS DE TIRADA 🎲 </h3>
@@ -178,11 +162,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 
 <h3 align="center"> REACCIÓN </h3>
 <br>
-<br>• La <b>reacción</b> te permite realizar un cambio de planes ante un evento del enemigo. Siemrpe que sea tu turno de juego. La reacción puede ser utilizada como un "<b>cambio de planes repentino!!!</b>". Es decir, si pensabas utilizar tu accion principal, "Correr (Mover+Mover)", y tu oponente realiza primero que tú algún movimiento potencialmente peligroso, puedes utilizar tu "Reacción" como acción principal, hacer un "cambio de planes" y "Huir" hacia otro punto. juegas 🎲 (1D6) si sale 4,5 ó 6 puedes realizar el cambio de planes. 
-
-<br>
-<div align="center"><img src="reaccion-secundaria.jpeg" width="50%" height="50%"></div>
-<br>
+<br>• La <b>reacción</b> te permite realizar un cambio de planes ante un evento del enemigo. Siemrpe que sea tu turno de juego. La reacción puede ser utilizada como un "<b>cambio de planes repentino!!!</b>". Es decir, si pensabas utilizar tu accion principal, "Correr (Mover+Mover)", y tu oponente realiza primero que tú algún movimiento potencialmente peligroso, puedes utilizar tu "Reacción" como acción principal, hacer un "cambio de planes" 
 
 <br>• <b>Ataque de reacción (distinto de contraatacar)</b>: Es un accion en la cual no estás en tu turno activo (es decir, esta jugando tu oponente) pero se da la situación en que tu oponente esta en pleno movimiento y también está en tu rango directo de vision y ataque. En este punto podrías reaccionar. Para realizar un ataque de reacción juegas 🎲 (1D6) y si sale 5 ó 6 aciertas el disparo. Este daño no se puede evadir ni esquivar ya que la unidad está en plena acción. 
 
