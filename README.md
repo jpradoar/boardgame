@@ -195,8 +195,10 @@ Si el resultado es un éxito la unidad recibe una herida.
 <br>
 • Los tokens (contadores giratorios de salud) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original. 
 <br><br>
-<div align="center"><img src="uso-de-tokens-salud-v2.png" width="50%" height="50%"></div>
-
+<div align="center"><img src="uso-de-tokens-salud-v2.png" width="50%" height="50%"> 
+<br>
+<img src="token.png" width="20%" height="20%"> 
+</div>
 <br>
 
 
