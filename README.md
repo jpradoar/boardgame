@@ -180,22 +180,22 @@ Si el resultado es un 1 o 2 la unidad recibe una herida.
 
 
 
-<h3 align="center"> USO DE TOKENS Y UNIDADES </h3></div>
+<h3 align="center"> USO DE TOKENS Y UNIDADES </h3>
 <br>
 
 • Los tokens (contadores giratorios de salud) no son obligatorios, pero permiten minimizar la cantidad de dados y evitar girar las unidades manteniendo siempre la dirección original. 
 <br><br>
-<div align="center"><img src="uso-de-tokens-salud-v2.png" width="50%" height="50%"> 
+<div align="center"><img src="uso-de-tokens-salud-v2.png" width="50%" height="50%"> </div>
 <br>
-<img src="token.png" width="20%" height="20%"> 
-</div>
+<div align="center"> <img src="token.png" width="20%" height="20%">  </div>
+
 <br>
 
 
 
-<h3 align="center">  PUNTOS DE VICTORIA </h3></div>
+<h3 align="center">  PUNTOS DE VICTORIA </h3>
 
-
+<div align="center">
 
 |Objetivo | puntos |
 |:---|:---:|
@@ -203,7 +203,8 @@ Si el resultado es un 1 o 2 la unidad recibe una herida.
 |Tener al menos una unidad en la zona de inicio del enemigo 					|🥉(1PV)|
 |Controlar objetivo. 										|🥈(2PV)|
 |Controlar la base enemiga									|🎖️(5PV)|
-  
+</div>
+<br><br>
 
 <h3 align="center">  GANAR EL JUEGO  </h3>
 
