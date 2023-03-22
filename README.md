@@ -9,14 +9,13 @@
 <br>  
 
 <h3 align="center"> EL JUEGO </h3>
-<b>EDC</b>: Es un juego de mesa diseñado para ser desarrollado en el tiempo que demora esperar y beber un café (30min).<br> Con un sistema de juego simple, rápido y a la vez divertido, supone una pequeña batalla (escaramuza) entre dos bandos de criaturas sedientas de dominio territorial. 
+<b>EDC</b>: Es un juego de mesa diseñado para ser desarrollado en el tiempo que demora esperar y beber un café (30min).<br> Con un sistema de juego simple, rápido y a la vez divertido, supone una pequeña batalla (escaramuza) entre dos bandos por el dominio territorial. 
 <p>Las unidades no tienen estereotipo, lo cual hace al juego bastante agnostico, de hecho, si quieres simular una situación histórica o un mundo fantastico futurista puedes hacerlo. Las unidades tienen sus propias características sobre ellas, lo que ayuda a simplificar los movimientos y tiradas de dados. <br>
 Los tamaños rondan los 2 cm la unidad, para que puedas transportarlo en una pequeña bolsa a donde desees. Puedes jugar 1vs1,  2vs2 o más. (hemos jugado 2v2 y resulta muy divertido!). <br>
 El objetivo primordial es que cualquiera pueda sentarse, jugar y compartir un buen momento. 🫂 <br>
 <p>
 	
-Completamente <b>Open-Source y PNP (print & play)</b>. Imprime 🖨️ Arma 🛠️ Juega 🎲. 
-Sientete libre de modificar a tu gusto lo que consideres que será mas divertido y, si crees que puedes agregarle algo, compartelo aqui mismo.
+Completamente <b>Open-Source y PNP (print & play)</b>. Imprime 🖨️ Arma 🛠️ Juega 🎲.  Sientete libre de modificar a tu gusto lo que consideres que será mas divertido.
 <br><br>
 	
 <h3 align="center"> QUE NECESITAS PARA JUGAR </h3>
@@ -25,7 +24,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>
 • 4 🎲 dados de seis caras (4D6) por jugador. (aunque con solo 4 es suficiente) <br>
 • 2 dados para anotar tus conquistas y puntos de victoria. (Nosotros usamos 2 dados extra) <br>
-• Una regla, o similar, para calcular las distancias de movimiento, si usas un mapa de hexagonos puedes omitir las reglas de distancia.<br>
+• Una regla, o similar, para calcular las distancias de movimiento y disparo. Si usas un mapa de hexagonos puedes omitir las reglas de distancia.<br>
 • Una superficie plana para jugar de 90x60cm funciona bien. (Incluso lo jugamos en la mesa del bar 🍺).<br>
 • Terrenos como bosques, rocas, edificios y/o ciudades son opcionales, pero hacen al juego mucho más divertido! (puede ser cartulina, cajitas de carton, fieltro, dibujados en papel y hasta <b>dibujado con Tiza en el suelo. Y créeme que este último fue un éxito!!</b>).<br>
 • Marcadores de puntos de control 🚩 (puede ser cualquier cosa. Hemos usado hasta pequeñas monedas).<br>
@@ -33,12 +32,11 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 
 <h3 align="center"> 🛠️ COMO ARMARLO </h3>
 <br>
-<br>• Puedes imprimir todo y jugar, o mejor aún, armarlo con lo que tengas a mano, por ejemplo, cubos de madera, tapitas, etc. En mi caso use un cartel de plástico y pegué sobre las piezas imágenes de las unidades. (las imprimí en A4 300g). 
-<br>• 🔢 <b>Tokens con números</b>: los uso para el control de salud de las unidades, reducir la cantidad de dados y evitar girar las unidades (Puedes usar dados si prefieres).
+<br>• Puedes imprimir todo y jugar, o mejor aún, armarlo con lo que tengas a mano, por ejemplo, cubos de madera, tapitas, etc. En mi caso use un cartel de plástico y pegué sobre las piezas imágenes de las unidades. (impresas en A4 300gr). 
+<br>• 🔢 <b>Tokens con números</b>: para el control de salud de las unidades, reducir la cantidad de dados y evitar girar las unidades (Puedes usar dados si prefieres).
 <br>• X  <b> blanca/negra</b>: para marcar cuando una unidad recibe 1 o más puntos de herida.
-<br>• 🚩 <b>Tokens de conquista</b>: los uso para marcar zonas de conquista, así puedo saber de quien es la zona o punto conquistado. (pueden ser los numeros o letras)
-<br>• 👺 <b>Unidades</b>: tamaño, en milímetros, 20x15x5 largo, alto, profundidad. Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
-<br>• 🎲 <b>Dados</b>: para llevar el conteo de puntos de cada jugador y el numero de rondas utilizo 3 dados, aunque no es necesario, practicamente lo puedes anotar en un papel. 
+<br>• 🚩 <b>Tokens de conquista</b>: para marcar zonas de conquista. (pueden ser los numeros y/o letras)
+<br>• 👺 <b>Unidades</b>: 20x15x5 milímetros. Largo, Alto, Profundidad. Pueden ser mas grandes pero es muy practico el tamaño para transportar el juego. 
 <br>• <b>Extra tokens</b>: los demás tokens no son necesarios, si quieres jugar misiones o agregar extras para mas realismo o diversion puedes usarlos a tu gusto. 
 <br><br>	
 <div align="center">
@@ -52,7 +50,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 
 
 
-<h3 align="center"> EJÉRCITOS  </h3> 
+<h3 align="center"> EJÉRCITOS </h3> 
 <br>
 <div align="center">
 
@@ -70,35 +68,28 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>
 • Ambos jugadores tiran 2D6 al inicio de cada ronda (iniciativa), el mayor de los dos resultados es el número de Puntos de acción (PA) que estarán disponibles para activar unidades de ambos jugadores en ese turno.<br>
 • Los jugadores pueden gastar o no el máximo de (PA) que obtuvieron en la tirada de PA.<br>
-• Los jugadores siempre tienen dos dados (2D6) de (PA), independientemente del tamaño del ejército, lo que hace que en ejércitos grandes sea más estratégica cada jugada.<br>
 <br>
 
 <h3 align="center"> ACTIVAR UNIDADES  </h3>
 <div align="center">
 	
-|**Activación (acción principal)**  |**Reacción (acción secundaria)**	 		|
-|:---:			     |:---:		 				|
-|Alerta			     |Reorganizar ó Contraatacar|
-|Atacar			     |Contraatacar 				|
-|Mover + Atacar	     |Reorganiza	 			|
-|Correr (Mover+Mover)|Al suelo		 				|
-
-  
-  
+|**Activación (acción principal)**  	|**Reacción (acción secundaria)**	|
+|:---:			     		|:---:		 			|
+|Alerta			     		|Reorganizar ó Contraatacar		|
+|Atacar			     		|Contraatacar 				|
+|Mover + Atacar	     			|Reorganiza	 			|
+|Correr (Mover+Mover)			|Al suelo				|
   
 <a href="cartas-activacion.pdf">CARTAS ACTIVAR UNIDADES (PDF)</a> 
-
 <br>
-
-<h3 align="center"> CARTAS DE ACTIVACIÓN DE UNIDADES  </h3>	
 	
-|**Acción** 		    | **Descripción** 	|
-|:---:			    |:--- 			    |
-|Atacar         |No se mueve, puede disparar. |
-|Contraatacar   |No mueve, puede atacar con dificultad +1 (acierta con 5 o 6) |
-|Mover y Atacar |Mueve hasta 6”, puede disparar solo después de moverse. |
-|Reorganizar    |Gira hasta 180° sobre su eje. No puede atacar. |
-|Correr         |Mueve hasta 12”, no puedes disparar. |
+|**Acción** 	| **Descripción** 						|
+|:---:		|:--- 			    					|
+|Atacar         |No se mueve, puede disparar. 					|
+|Contraatacar   |No mueve, puede atacar con dificultad +1 (acierta con 5 o 6) 	|
+|Mover y Atacar |Mueve hasta 6”, puede disparar solo después de moverse. 	|
+|Reorganizar    |Gira hasta 180° sobre su eje. No puede atacar. 		|
+|Correr         |Mueve hasta 12”, no puedes disparar. 				|
 |Alerta         |No se mueve, puede disparar en reacción al enemigo o reorganizar |
 |Al suelo       |No se mueve, no puede disparar, obtiene +1 dado a las tiradas de bloqueo. |
 
@@ -112,11 +103,11 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br><b>2.</b> El número más alto de iniciativa también será la cantidad de <b>Puntos de Acción (PA) para ambos.</b> (la cantidad de unidades que podras activar/utilizar en esa ronda)
 <br><b>3.</b> Inicia el jugador con mayor iniciativa. 
 <br><b>4.</b> Todos los jugadores colocanuna boca abajo una carta de activación al lado de las unidades que desean utilizar. 
-<br><b>5a.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad o pelotón. ( Activa una unidad el jugador A, luego el jugador B activa otra, y así).
-<br><b>5b.</b> Para "Activar" una unidad basta con dar vuelta la carta de activación y ejecutar la acción principal que dice en ella. Una vez colocada la carta de activacion no se puede cambiar por otra.
+<br><b>5a.</b> El juego se desarrolla en rondas, con cada jugador alternando la activación de una unidad. ( Activa una unidad el jugador A, luego el jugador B activa otra, y así).
+<br><b>5b.</b> Para "Activar" una unidad basta con dar vuelta la carta de activación y ejecutar la acción. Una vez colocada la carta de activacion no se puede cambiar por otra.
 <br><b>5c.</b> Realizar una "Reacción"  <b>ver REACCIÓN</b>
-<br><b>6.</b> Cuando finalizan todas las unidades finaliza la ronda ( Vuelve al punto 1 )
-<br>• <b>Los objetivos, como ganar el juego y el flujo completo está al final.</b><br>
+<br><b>6.</b> Cuando finalizan todas las unidades termina la ronda ( Vuelve al punto 1 )
+
 
 <div align="center"><img src="flujo-01.png"></div>
 <br>
@@ -124,7 +115,7 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <h3 align="center"> ZONAS DE CONQUISTA </h3>
 
 <br>• Las zonas de conquista son puntos en el mapa que puedes conquistar para ganar puntos.
-<br>• Colocar 3, 5 o 7 objetivos, cada uno fuera de las zonas de despliegue y a más de 14 cm de distancia entre sí. Al final de cada ronda, si una unidad está a 3 cm o menos de una de ellas, entonces se captura y pertenece a quien lo conquiste, a menos que el enemigo elimine todas las unidades opuestas y recapture la zona. (recuerda colocar un token o algo para marcar de quien es la zona y anota el punto.)
+<br>• Colocar 4, 6 u 8 objetivos, cada uno fuera de las zonas de despliegue y a más de 14 cm de distancia entre sí. Al final de cada ronda, si una unidad está a 3 cm o menos de una zona de conquista, se captura y pertenece a quien lo conquiste, a menos que el enemigo elimine todas las unidades opuestas y recapture la zona.
 <br>• Si las unidades de ambos bandos están disputando una misma zona de conquista, pueden marcarla como neutral, o bien luchar a morir por esa zona.
 <br>
 <br>
@@ -137,11 +128,10 @@ Sientete libre de modificar a tu gusto lo que consideres que será mas divertido
 <br>
 <b>• Terreno de cobertura:</b> Las unidades que disparan a los enemigos con la o las miniaturas a cubierto obtienen -1 en las tiradas para impactar.
 <br>
-<b>• Terreno Difícil:</b> Las unidades que transiten a través de terrenos difíciles se mueven a la mitad de su movimiento normal.
+<b>• Terreno Difícil:</b> Las unidades que transiten a través de terrenos difíciles gastan 2 puntos de movimiento.
 <br>
-<b>• Terreno peligroso:</b> Las miniaturas que transiten por terreno peligroso, mueven igual que en terreno difícil, pero deben tirar 1D6. 
-Si el resultado es un éxito la unidad recibe una herida.
-<br>• <b>Regla de movimiento</b>: Puedes usar la clasica "Cinta métrica", en mi caso, arme una regla con las medidas de movimiento para que sea más practico.
+<b>• Terreno peligroso:</b> Las unidades que transiten por terreno peligroso, mueven igual que en terreno difícil, pero deben tirar 1D6. 
+Si el resultado es un 1 o 2 la unidad recibe una herida.
 <br>
 <br>
 
@@ -193,7 +183,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 <h3 align="center"> USO DE TOKENS Y UNIDADES </h3></div>
 
 <br>
-• Los tokens (contadores giratorios de salud) no son obligatorios, pero permiten minimizar la cantidad de dados, evitar girar las unidades y mover las posiciones de las mismas, manteniendo siempre la dirección original. 
+• Los tokens (contadores giratorios de salud) no son obligatorios, pero permiten minimizar la cantidad de dados y evitar girar las unidades manteniendo siempre la dirección original. 
 <br><br>
 <div align="center"><img src="uso-de-tokens-salud-v2.png" width="50%" height="50%"> 
 <br>
@@ -225,15 +215,11 @@ Si el resultado es un éxito la unidad recibe una herida.
 <h3 align="center">  RESUMEN Y LÓGICA FUNCIONAL</h3>
 
 <br>
-<br>• Habilidades especiales: Reparte 4 cartas de habilidades especiales. 
-<br>• Juega iniciativa: juega 2d6 (el mas alto gana). 
+<br>• Juega iniciativa: juega 2d6 (el mas alto inicia). 
 <br>• Puntos de acción: utiliza los PA y activa unidades. (usa el mayor número en Iniciativa para ambos jugadores)
-<br>• Activar unidades: inicia el jugador con mayor iniciativa, activando sus unidades y luego el otro jugador activa sus unidades y así sucesivamente. 
-<br>• Reacción: Solo si tienes puntos de reacción puedes realizar un ataque a tu enemigo. (aunque no sea tu turno).
-<br>• Daños: calcular daños si los hay
-<br>• Heridas: calcular heridas si las hay
-<br>• Subir de rango: Chequea si una unidad puede subir de rango. Si es así, levanta una carta de habilidad especial. 
-<br>• Resultados: una vez que todas las unidades de ambos jugadores fueron activadas se verifica y calcula puntos de “Dominar el campo de batalla”.
+<br>• Activar unidades: inicia el jugador con mayor iniciativa, activando una unidad y luego el otro jugador activa su unidad y así sucesivamente. 
+<br>• Daños o heridas: calcular daños o heridas si las hay
+<br>• Resultados: una vez que todas las unidades de ambos jugadores fueron activadas, se verifican y calculan puntos.
 <br>• Vuelve al punto 2. 
 
 <br><br>
@@ -253,7 +239,7 @@ Si el resultado es un éxito la unidad recibe una herida.
 
 
 
-<br><br><br><hr><br><br>
+<br><br><br><hr><br><br><br><br>
 
 <h3 align="center">  EN ETAPA EXPERIMENTAL</h3>
 <br><br>
