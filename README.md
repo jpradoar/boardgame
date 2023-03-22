@@ -170,10 +170,10 @@ Si el resultado es un 1 o 2 la unidad recibe una herida.
 	
 <div align="center">
 
-|Dado |resultado  |Puntos de herida |
-|:---:  |:---|:---:|
-| 1 - 4 |🤕 Levemente Herido | 1 |
-| 5 - 6 |🩸 Gravemente herido| 2 |
+|Dado 	|resultado  		|Puntos de herida |
+|:---:  |:---			|:---:|
+| 1 - 4 |🤕 Levemente Herido 	| 1 |
+| 5 - 6 |🩸 Gravemente herido	| 2 |
 
 </div>
 <br><br>
@@ -226,5 +226,3 @@ Si el resultado es un 1 o 2 la unidad recibe una herida.
 <div align="center">
 <img src="EDC-LOGICA-FUNCIONAL.png"  width="100%" height="100%">
 </div>
-
-
