@@ -181,8 +181,8 @@ Si el resultado es un 1 o 2 la unidad recibe una herida.
 
 
 <h3 align="center"> USO DE TOKENS Y UNIDADES </h3></div>
-
 <br>
+
 • Los tokens (contadores giratorios de salud) no son obligatorios, pero permiten minimizar la cantidad de dados y evitar girar las unidades manteniendo siempre la dirección original. 
 <br><br>
 <div align="center"><img src="uso-de-tokens-salud-v2.png" width="50%" height="50%"> 
@@ -226,64 +226,5 @@ Si el resultado es un 1 o 2 la unidad recibe una herida.
 <div align="center">
 <img src="EDC-LOGICA-FUNCIONAL.png"  width="100%" height="100%">
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><hr><br><br><br><br>
-
-<h3 align="center">  EN ETAPA EXPERIMENTAL</h3>
-<br><br>
-<div align="center"><h3> SUBIR DE RANGO  </h3>	</div>
-
-
-<br>• Las unidades pueden subir de rango. Para ello deben destruir algunas unidades enemigas. 
-<br>• Cuando una unidad sube de rango entra al campo de batalla como si fuera una completamente saludable y levanta una carta del mazo de habilidades.  
-<br>
-
-<div align="center"><h3> CARTAS DE HABILIDADES ESPECIALES  (beta-test)</h3>
-
-<img src="example-card.png" width="280" height="370"><br>
-<a href="RPG-cards.pdf">( CARTAS PDF)</a> 
-</div>
-
-
-
-	
-<br>• Todas las cartas deben descartarse al mazo una vez utilizadas. 
-<br>• Cuando juegues con habilidades especiales mezcla el mazo de cartas especiales y reparte 4 a cada jugador. Las cartas una vez usadas vuelven al mazo. Las restantes servirán para cuando una unidad ascienda de rango.
-
-<br>
-
-<h3 align="center"> UNIDADES ESPECIALES </h3>
-<br><b>• Minguin:</b> Esta unidad permite curar 1 punto de salud a una unidad aliada y hasta 2 puntos de heridas. El Minguin puede utilizar el turno para curar o disparar, no puede hacer ambas en el mismo turno.
-<br>• Para curar una unidad, debe estar en contacto (CC) o menos de 3cm.
-<br>• La unidad a curar no puede estar en rango de ataque enemigo. 
-<br>
-<br>
-
-
-
-
-
-
-
-
-<h3 align="center"> REEMPLAZAR REGLA POR MAPA DE HEXAGONOS </h3>
-<br>
-Si prefieres evitar las reglas de medidas, puedes jugar con hexágonos de 2cm
-<br>
-<img src="TABLERO-COMPLETO.jpeg"  width="100%" height="100%">
-<br>
-<img src="TABLERO-COMPLETO2.jpeg"  width="100%" height="100%">
 
 
